@@ -1,0 +1,44 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:         Power Strike, Aleste (Japan)
+System:            Sega Master System
+FM module:         No
+
+Music author:      Masatomo Miyamoto,
+                  Takeshi Santoh, Shin-kun Pazu
+Game developer:    Compile
+Game publisher:    Sega
+Game release date: February 29th, 1988
+
+Package created by: Johnnyz
+Package version:    1.02
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Aleste                              0:32   0:32
+The Challenger                      0:30   0:30
+Tension of Dark Side                0:36   0:36
+The Devastation                     1:05   1:05
+The Solitude                        0:28   0:27
+Don't Cry Hi-yah                    0:26   0:26
+Bloody Jewel                        0:16   0:13
+Rapid Turning                       0:13   0:13
+Street Fighter                      0:10   0:10
+Dogodaga-Dogodege                   0:16   0:16
+Go Ahead                            0:10   -
+Triumph                             0:51   0:51
+Easygoing                           0:37   0:37
+Extra Life                          0:02   -
+Again                               0:21   -
+
+Notes:
+
+Package problems:
+inaccurate release date
+
+Package history:
+1.02 2010/09/08 karagh: +cover, ~date
+

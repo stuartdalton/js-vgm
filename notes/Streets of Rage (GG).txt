@@ -1,0 +1,45 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Streets of Rage
+                     Bare Knuckle (Japan)
+System:              Sega Game Gear
+FM module:           No
+
+Music author:        Yuzo Koshiro
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   November 27, 1992
+
+Package created by:  Maxim
+Package version:     1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+The Streets of Rage                 1:43   -
+Player Select                       0:20   0:19
+Fighting in the Street              1:11   1:10
+Attack the Barbarian                0:37   0:30
+Round Clear                         0:05   -
+Keep the Groovin'                   0:38   0:37
+Beating on the Ship                 1:00   1:00
+Back to the Industry                0:26   0:26
+The Last Soul                       0:48   0:48
+Big Boss                            0:45   0:38
+My Little Baby                      1:12   -
+Game Over                           0:04   -
+
+Notes:
+Some tracks have slightly different names on
+the Original Soundtrack compared to the names
+they are well-known with in English. The
+Japanese track titles reflect these differences.
+In the original game, there are two endings;
+"My Little Baby" is the "Good Ending". In the
+Game Gear version, it is the only ending.
+
+Package history:
+1.01 2010/07/01 karagh: +cover.
+

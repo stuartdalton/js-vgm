@@ -1,0 +1,39 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Mega Man
+System:              Sega Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Capcom
+Files created by:    Grass-eatin'me
+Files version:       1.02
+
+Files, in approximate game order:
+
+Name                                Length:
+				    Total  Loop
+Opening                             0:09   0:09
+Title                               0:44   0:44
+Stage Select                        0:08   0:08
+Game Start                          0:06   -
+Starman Stage                       1:38   1:38
+Brightman Stage                     1:09   1:09
+Napalmman Stage                     0:47   0:47
+Stoneman Stage                      1:26   1:26
+Waveman Stage                       0:43   0:43
+Toadman Stage                       0:42   0:35
+Boss                                0:10   0:10
+Get a Weapon                        0:07   -
+Dr. Wily Stage                      0:37   0:37
+Ending                              0:45   0:45
+
+Notes:
+Titles are not official. Neither are Authors.
+Send correct information / confirmation to 
+grasseatinme@yahoo.no
+

@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           World Soccer
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:34   0:34
+In Game                             1:15   1:15
+Goal                                0:03   -
+End                                 0:10   -
+Himno Nacional Argentino            1:51   -
+Das Lied der Deutschen              0:43   0:43
+La Marseillaise                     1:00   -
+Hino Nacional Brasileiro            1:21   -
+God Save the Queen                  0:22   0:22
+Il Canto degli Italiani             0:48   0:48
+The Star-Spangled Banner            1:17   -
+Kimi Ga Yo                          0:47   -
+Unused Music                        0:07   -
+
+Notes:
+-

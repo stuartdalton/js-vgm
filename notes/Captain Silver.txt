@@ -1,0 +1,43 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Captain Silver
+System:              Sega Master System
+FM module:           No
+
+Music author:        unknown
+Game developer:      Data East
+Game publisher:      Sega
+Game release date:   July 2nd, 1988
+
+Package created by:  Johnnyz
+Package version:     1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:09   -
+Scene Start                         0:02   -
+Town of Barren & Pirates Ship       0:27   0:25
+Power-Up Pixie                      0:01   0:01
+Eerie Piper                         0:06   0:06
+Boss                                0:38   0:26
+Scene Complete                      0:06   -
+Boat & Cave                         0:43   0:43
+Captain Silver's Treasure Island    0:26   0:26
+Ending                              0:32   0:32
+Game Over                           0:03   -
+Death                               0:01   -
+Witch Voice                         0:01   -
+Death Voice                         0:01   -
+
+Notes:
+
+Package problems:
+sample-accurate log; no Japanese tags; missing
+credits
+
+Package history:
+1.01 2010/08/15 karagh: +cover
+

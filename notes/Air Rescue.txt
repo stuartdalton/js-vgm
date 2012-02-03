@@ -1,0 +1,36 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Air Rescue
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Youko Wada
+Publisher:           Sega
+Package created by:  Maxim; CRV
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:35   -
+Demo                                0:20   0:20
+Round Start                         0:01   0:01
+Dangerous Holiday                   0:30   0:30
+Round Clear                         0:04   -
+Fire Storm                          0:32   0:32
+Count Down                          0:47   0:46
+Panic Ocean                         0:29   0:26
+Breakdown Darkstar                  0:48   0:35
+Ending                              8:42   7:15
+Game Over                           0:05   -
+Continue                            0:12   -
+Unknown                             0:03
+
+Notes:
+Hold both buttons while loading the game, then 
+rotate the pad clockwise to get "Test mode".

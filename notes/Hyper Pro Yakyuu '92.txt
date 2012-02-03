@@ -1,0 +1,39 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Hyper Pro Yakyuu '92
+System:             Sega Game Gear
+FM module:          No
+
+Music author:       Unknown
+Game developer:     Sega
+Game publisher:     Sega
+Game release date:  1992/04/24
+
+Package created by: Sonic of 8!
+Package version:    1.00
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:38   0:25
+Team Select                         0:39   0:36
+Play Ball!                          0:09   -
+Player Batting 1                    0:38   0:33
+Catch the Ball!                     0:08   0:04
+Player Batting 2                    0:34   0:34
+Player Batting 3                    0:34   0:34
+Good Business                       0:10   0:10
+Change Sides                        0:04   -
+CPU Batting 1                       0:29   0:29
+CPU Batting 2                       0:29   0:29
+Trouble                             0:12   0:04
+Home Run                            0:03   -
+Game Set                            0:21   -
+News                                0:28   0:25
+
+Notes:
+These game is the first GG Baseball game licensed by NPB!
+
+I Beat this game in nine innings, but the game don't have a credits screen.

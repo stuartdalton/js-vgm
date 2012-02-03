@@ -1,0 +1,60 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/Music               *
+***********************************************
+
+Game name:           The A-Team
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Jeroen Tel
+Publisher:           n/a
+Package created by:  Maxim
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Drums                               0:04   0:04
+Title                               0:30   0:30
+Intro                               1:01   1:01
+Savannah Level                      0:10   0:10
+River Level                         0:51   0:51
+Jungle Level                        0:46   0:46
+Military Level                      1:01   1:01
+Knock Jingle                        0:05   0:05
+Game Over                           0:05   -
+Won Game                            0:03   -
+Map Jingle                          0:31   0:31
+Uh Oh Boss                          0:02   -
+End Of Level                        0:05   -
+
+Notes:
+This game was never released and possibly never developed at all. Jeroen Tel
+was contracted to produce the music for it and this dump was produced from his
+music engine alone. Nothing else is known about the game.
+
+Tracks are in sound test order because there is no game order.
+
+Track titles are guessed from the music engine's sequence names. Here are the
+originals for comparison:
+
+AT_DRUMS
+AT_TITLE
+INTRO
+LEVELSAV
+LEVELRIV
+LEVELJUN
+LEVELMIL
+KNOCKJIN
+GAMEOVER
+WONGAME
+MAPJINGL
+UHOHBOSS
+ENDOFLEV
+
+History:
+1.00 Initial release
+1.01 Converted to 50Hz as that's how they were intended to be played

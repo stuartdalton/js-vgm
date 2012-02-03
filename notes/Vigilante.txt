@@ -1,0 +1,37 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Vigilante
+System:              Sega Master System
+FM module:           No
+
+Music author:        Masato Ishizaki
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   1988
+
+Package created by:  Johnnyz
+Package version:     1.03
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:09   0:09
+Story 1                             0:07   -
+Round Start                         0:02   -
+City Streets                        1:07   1:07
+Junkyard                            0:46   0:46
+Bridge                              0:40   0:37
+Downtown                            0:23   0:23
+Story 2                             0:06   -
+Construction Sites                  0:34   0:32
+Ending                              1:07   -
+Game Over                           0:04   -
+Unused Music                        0:06   -
+
+Notes:
+
+Package history:
+1.03 2009/11/20 karagh: added track numbers.
+

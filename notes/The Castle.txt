@@ -1,0 +1,40 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           The Castle
+System:              SG-1000
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Jacko
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:03   -
+In Game                             0:13   0:13
+In Game (Fast)                      0:09   0:09
+Forest Fairy                        0:10   -
+Water                               0:06   0:06
+Water (Fast)                        0:04   0:04
+Invincibility                       0:06   0:06
+Invincibility (Fast)                0:04   0:04
+Ending                              0:21   -
+Rafael Dies                         0:03   -        
+Game Over                           0:04   -       
+
+
+Notes:
+This VGM pack has been re-ripped and loops have been fixed up.
+
+ENJOY!
+
+Jacko
+
+30/1/2005 (Updated 5/10/2005)

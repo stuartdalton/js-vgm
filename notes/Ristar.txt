@@ -1,0 +1,47 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Ristar the Shooting Star
+System:              Sega Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original authors:    LKJ.Chikayo; Tomoko Sasaki
+Publisher:           Sega
+Package created by:  Martin Konrad
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Ebony Force                         0:26   -
+Play! Play! Play!                   0:35   0:14
+Shooting Ristar                     1:21   1:14
+Dancing Leaves                      1:27   1:13
+Ring Rink                           2:16   1:04
+Strange Pirates                     0:56   0:55
+Intermission                        0:16   0:16
+Du-Di-Da!                           0:35   0:31
+On Parade                           0:58   0:46
+White Symphony                      1:28   1:17
+Click Clock                         1:16   1:16
+Crying World                        1:18   1:18
+Lock Up!                            1:05   0:52
+Concentration                       0:16   0:15
+Crazy Kings                         0:53   0:51
+Greedy Game                         1:49   1:49
+Formation Lap                       0:10   0:08
+Ready. Set. Go!                     0:46   0:31
+Go Ahead                            0:13   0:08
+Let's Go!                           0:12   0:08
+Beyond Space                        0:45   -
+Once More..                         0:18   -
+Give Up?                            0:13   -
+Star Humming                        1:39   -
+Next Cruise                         1:35   -
+
+Notes:
+Ring Rink is only available in Japanese mode.

@@ -1,0 +1,42 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Super Boy 4
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Zemina
+Package created by:  Sonic of 8!
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+BGM 1                               0:25   0:25
+Invicibility                        0:03   0:03
+Round Clear                         0:04   -
+BGM 2                               0:25   0:25
+BGM 3                               0:17   0:17
+BGM 4                               0:12   0:12
+BGM 5                               0:17   0:17
+BGM 6                               0:06   0:03
+BGM 7                               0:17   0:17
+Death                               0:01   -
+Game Over                           0:06   -
+
+Updates:
+1.01:
+- Update VGM Version to 1.50
+- Correction in this text file.
+- Renamed BGM 4 track, causing a problem in a playlist.
+
+1.00 (Unreleased):
+- First Release
+
+Notes:
+Unlicensed Super Mario World clone.

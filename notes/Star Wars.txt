@@ -1,0 +1,42 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Star Wars
+System:             Sega Master System
+FM module:          No
+
+Music author:       John Williams
+Game developer:     Lucasfilm Games
+Game publisher:     U.S. Gold
+Game release date:  1993
+
+Package created by: Johnnyz
+Package version:    1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        1:16   1:16
+Jedi or Cadet                       1:06   1:06
+Map                                 0:24   0:24
+Cave                                0:39   0:39
+Find R2D2                           0:40   0:40
+Spaceport                           0:29   0:29
+Cantina                             0:29   0:29
+Han Solo                            0:55   0:55
+Prison                              1:03   1:03
+Princess Leia                       0:24   0:24
+X-Wing                              0:24   0:24
+Ending                              0:37   -
+
+Notes:
+Original composer: John Williams
+
+Package problems:
+inaccurate release date; no Japanese tags;
+missing credits
+
+Package history:
+1.01 2010/09/08 karagh: +cover, +author
+

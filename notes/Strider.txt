@@ -1,0 +1,33 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Strider
+System:             Sega Master System
+FM module:          No
+
+Music author:       Misses Tarumi
+Game developer:     Capcom
+Game publisher:     Sega
+Game release date:  1991
+
+Package created by: Grass-eatin'me
+Package version:    1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Strider                             0:54   0:54
+Prelude                             0:06   -
+Boss Theme                          0:18   0:18
+Stage Clear                         0:05   -
+
+Notes:
+
+Package problems:
+inaccurate release date; no Japanese tags;
+sample-accurate log
+
+Package history:
+1.01 2010/09/08 karagh: +cover
+

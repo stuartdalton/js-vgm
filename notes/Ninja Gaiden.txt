@@ -1,0 +1,45 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Ninja Gaiden
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Fumi
+Publisher:           Sega
+Package created by:  DukeNukem
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Intro                               1:38   -
+Title                               0:23   -
+Story                               0:26   0:26
+Level Start                         0:07   -
+Escape in a Forest                  1:00   1:00
+Boss                                0:32   0:30
+Pursuit in Tokyo                    0:39   0:38
+Samurai in Tsutenkaku               1:49   0:54
+Rescue Geisha                       0:58   0:58
+The Land of Enemy                   0:38   0:38
+Raid                                0:51   0:51
+Overcome                            0:52   0:51
+A Decisive Battle                   1:33   0:44
+End Credits                         1:24   -
+Death                               0:03   -
+Continue                            0:17   -
+Game Over                           0:02   -
+
+
+Notes:
+
+Tracks were named with the chapter name on the game
+
+The music "Samurai in Tsutenkaku" is bigger because
+the loop doesn't sounded good enough, so I used the
+2nd loop in the game, and now, it sounds correctly.

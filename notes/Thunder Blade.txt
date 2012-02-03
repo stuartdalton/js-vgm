@@ -1,0 +1,27 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Thunder Blade
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Koichi Namiki
+Publisher:           Sega
+Files created by:    Johnnyz
+Files version:       1.02
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:09   -
+Burning Point                       1:13   0:59
+Thunder Blade                       1:29   1:28
+Type II                             1:33   1:30
+Game Over                           0:10   -
+
+Notes:
+Titles from arcade version.

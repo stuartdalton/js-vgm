@@ -1,0 +1,41 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/Music               *
+***********************************************
+
+Game name:           Pac-In-Time
+System:              Sega Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Frederic Motte
+Publisher:           Namco / Mindscape
+Package created by:  Sonic of 8!
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title                               0:30   0:20
+Round Start                         0:04   -
+Beach                               2:08   2:08
+Round Clear                         0:02   -
+Pyramid                             2:33   2:18
+Factory                             2:14   2:14
+Castle                              2:33   2:33
+Credits                             0:25   0:25
+Lost a Life                         0:02   -
+
+Updates:
+1.01
+- Retired [Proto] in the Music Tracks
+- Updated VGM Version to 1.50
+
+1.00 (unreleased)
+- First Release
+
+Notes:
+The Game Gear version of this game was never released.
+
+Pac-In-Time is a rebranded version of "Furry of the Furries", made by Kalisto. 

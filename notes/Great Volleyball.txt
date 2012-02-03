@@ -1,0 +1,34 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Great Volleyball
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:29   0:29
+In Game                             0:39   0:38
+Victory                             0:06   -
+Defeat                              0:06   -
+The Star-Spangled Banner            0:58   -
+National Anthem of the Soviet Union 0:82   -
+National Banner Song                0:25   -
+Aegukga                             0:25   -
+Kimi Ga Yo                          0:35   -
+Hino Nacional Brasileiro            1:01   -
+La Bayamesa                         0:51   -
+La Marseillaise                     0:45   -
+
+Notes:
+-

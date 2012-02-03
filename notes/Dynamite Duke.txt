@@ -1,0 +1,38 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Dynamite Duke
+System:             Sega Master System
+FM module:          No
+
+Music author:       Wada
+Game developer:     Seibu Kaihatsu
+Game publisher:     Sega
+Game release date:  1991
+
+Package created by: CRV
+Package version:    1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Missions 1 and 4                    1:00   1:00
+Prelude to Boss                     0:10   0:10
+Boss                                0:58   0:58
+Mission Complete                    0:04   -
+Mission 2                           0:58   0:58
+Mission 3                           1:04   0:59
+Ending                              1:32   -
+Game Over                           0:31   0:31
+Unused                              0:12   -
+
+Notes:
+Original arcade score by Akira Satoh.
+
+Package problems:
+inaccurate release date; no Japanese tags
+
+Package history:
+1.01 2010/09/09 karagh: +cover.
+

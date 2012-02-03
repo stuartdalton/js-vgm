@@ -1,0 +1,25 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           The Black Onyx
+System:              Sega SG-1000
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Tokuhiko Uwabo
+Publisher:           Sega
+Package created by:  CRV
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:06   -
+In-Game Music                       0:26   0:26
+Game Over                           0:04   -
+
+Notes:
+-

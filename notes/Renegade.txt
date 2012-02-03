@@ -1,0 +1,41 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Renegade
+System:             Sega Master System
+FM module:          No
+
+Music author:       Kazuo Sawa
+Game developer:     Sega
+Game publisher:     Sega
+Game release date:  1993
+
+Package created by: Johnnyz
+Package version:    1.02
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:04   -
+Mission Start                       0:02   -
+Mission 1 - Subway                  0:40   0:40
+Mission 1 - inside Train            0:43   0:43
+Mission Complete                    0:05   -
+Mission 2 - Harbor                  0:40   0:40
+Mission 2 - Motorcycle              0:43   0:43
+Mission 3 - Downtown                0:33   0:33
+Mission 4 - Mansion                 0:40   0:40
+Final Boss - Lucas                  0:16   0:16
+Ending                              0:34   0:31
+Defeated                            0:03   -
+Game Over                           0:04   -
+
+Notes:
+
+Package problems:
+inaccurate release date
+
+Package history:
+1.02 2010/09/08 karagh: +cover
+

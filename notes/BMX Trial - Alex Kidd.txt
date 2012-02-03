@@ -1,0 +1,33 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           BMX Trial - Alex Kidd
+System:              Sega Master System
+FM module:           No
+
+Music author:        unknown
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   November 15, 1987
+
+Package created by:  Johnnyz
+Package version:     1.01
+
+Song list, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Blackwood Forest & Cactus Desert    1:17   1:17
+South Seas & Pyramid River          0:38   0:38
+Radaxian                            0:58   0:58
+Course Clear                        0:04   -
+Ending                              0:38   0:38
+Jetpack                             0:16   0:14
+Game Over                           0:02   -
+
+Notes:
+
+Package history:
+1.01 (2009/10/23)(karagh): added cover.
+

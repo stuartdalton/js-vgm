@@ -1,0 +1,45 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:             Street Fighter II'
+System:                Sega Master System
+FM module:             No
+
+Music author:       Alph Lyra, Tadashi Joukagi,
+                       Setsuo Yamamoto
+Game developer:        Tec-Toy
+Game publisher:        Capcom, Sega
+Game release date:     1997
+
+Package created by:    Grass-eatin'me
+Package version:       1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Opening Demo                        0:27   -
+Player Select                       0:36   0:29
+VS.                                 0:03   -
+Ken Stage                           0:47   0:38
+Ryo Stage                           0:37   0:29
+Chun Li Stage                       0:24   0:23
+Guile Stage                         0:38   0:32
+Blanka Stage                        0:48   0:44
+M. Bison Stage                      0:40   0:40
+Balrog Stage                        0:34   0:34
+Sagat Stage                         0:16   0:16
+Vega Stage                          0:30   0:30
+Staff Roll                          1:05   1:05
+
+Notes:
+All titles / ordering from 'SRCL-2822'
+-Super Street Fighter II: The New Challengers-
+
+Package problems:
+sample-accurate log; no Japanese tags;
+inaccurate release date
+
+Package history:
+1.01 2010/08/15 karagh: +cover, +tags
+

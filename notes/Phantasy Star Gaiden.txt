@@ -1,0 +1,36 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Phantasy Star Gaiden
+System:              Sega Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Zenzo
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        1:12   1:12
+Intro                               0:43   0:43
+Town                                1:00   1:00
+Home                                0:25   0:24
+Old Rob                             0:15   0:15
+House                               0:12   0:12
+Magic Shop                          0:08   0:08
+Church                              1:13   1:13
+Overworld                           2:14   2:14
+Battle Start                        0:02   -
+Battle                              0:47   0:47
+Level Up                            0:03   -
+Cave                                0:28   0:28
+Sleep                               0:04   -
+
+Notes:
+-

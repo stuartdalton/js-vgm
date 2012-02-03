@@ -1,0 +1,28 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Populous
+System:              Sega Master System
+FM:                  No
+
+Music author:        Rob Hubbard
+Game developer:      Bullfrog Software
+Game publisher:      Tecmagik
+Game release date:   1991
+
+Package created by:  Maxim
+Package version:     1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Welcome to Populous                 0:04   -
+Main Theme                          1:02   1:02
+
+Notes:
+Rob Hubbard is the original composer.
+
+Package history:
+1.01 2010/07/19 karagh: +cover, +tags.
+

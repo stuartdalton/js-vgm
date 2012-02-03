@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Running Battle
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Hikoshi Hashimoto
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:43   0:43
+Level                               1:13   0:59
+Story                               0:24   0:24
+Super Run                           0:05   -
+Captain Brass                       0:18   0:18
+Cleared                             0:44   0:44
+Killer the Kid                      0:14   0:14
+Samrai Man                          0:15   0:15
+Milacle Man                         0:22   0:22
+Mr. M                               0:40   0:40
+Game Over                           0:03   -
+Unused Music                        0:01   -
+Unused Ending                       1:21   -
+
+Notes:
+Title Screen and Cleared don't play a full loop in the game.

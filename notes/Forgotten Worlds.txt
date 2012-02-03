@@ -1,0 +1,45 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Forgotten Worlds
+System:             Sega Master System
+FM module:          No
+
+Music author:       Izuho Takeuchi
+Game developer:     Sega
+Game publisher:     Sega
+Game release date:  1991
+
+Package created by: Conradtrout
+Package version:    1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:18   -
+Get Ready                           0:13   -
+Level 1                             1:46   1:26
+Boss 1                              0:16   0:16
+Level Complete                      0:05   -
+Level 2                             1:46   1:45
+Boss 2                              0:26   0:24
+Level 3                             1:40   1:40
+Shop                                0:26   0:13
+Level 4                             2:00   1:46
+Boss 3                              0:48   0:35
+Level 5 Part 1                      1:27   1:10
+Level 5 Part 2                      2:08   0:26
+Final Boss                          1:20   0:14
+You Win                             1:23   -
+Credits                             1:08   -
+Game Over                           0:06   -
+
+Notes:
+
+Package problems:
+inaccurate release date; bad log (FM commands)
+
+Package history:
+1.01 2010/09/06 karagh: +cover, +jtags
+

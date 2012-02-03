@@ -1,0 +1,50 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:         Shinobi II - The Silent Fury
+                     The GG Shinobi II (Japan)
+System:              Sega Game Gear
+FM module:           No
+
+Music author:        Yuzo Koshiro
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   December 11, 1992
+
+Package created by:  Martin Konrad
+                     Robert Konrad
+Package version:     1.03
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Intro                               0:25   -
+Level Selection                     0:10   0:10
+Level Selected                      0:03   -
+Building 1                          0:26   0:26
+Building 2                          0:45   0:45
+Factory 1                           0:26   0:26
+Factory 2                           0:22   0:22
+Canyon 1                            0:43   0:43
+Canyon 2                            1:20   1:20
+Castle 1                            0:26   0:26
+Castle 2                            0:26   0:26
+Enemy's Base                        0:38   0:38
+Boss                                0:34   0:34
+Boss Explosion                      0:02   -
+Boss Beaten                         0:04   -
+Ninja Boss Selection                0:34   0:34
+Ninja Boss                          0:19   0:16
+Last Boss                           0:34   0:34
+Level Again                         0:05   -
+Extro                               1:19   -
+
+Notes:
+To rip the music without sound effects, I had
+to write a little hack. My brother Robert then
+ripped all the VGMs and I trimmed them.
+
+Package history:
+1.03 2009/11/19 karagh: game info corrections
+

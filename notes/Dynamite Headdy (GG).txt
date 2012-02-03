@@ -1,0 +1,42 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Dynamite Headdy
+System:             Sega Game Gear
+FM module:          Yes
+
+Music author:       Kazuo Hanzawa, Jun Irie,
+               Hideki Matsutake, Ako Matsudaira
+Game developer:     Treasure
+Game publisher:     Sega
+Game release date:  August 5th, 1994
+
+Package created by: DJ Squarewave
+Package version:    1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Escape Hero                         0:53   0:53
+North Town's Theme                  0:03   -
+You're Izayoi                       1:49   1:49
+Kejime 1                            0:07   -
+Headdy the Hero                     0:51   0:51
+Nutcracker                          1:17   1:17
+I Sing                              0:30   0:27
+South Town's Theme                  1:01   1:01
+Walk Towards Me                     0:34   0:27
+Hustle Maruyama                     0:58   0:55
+Crosswalk of Love                   2:33   2:27
+
+Notes:
+Hanzawa, Matsutake, and Irie composed the
+original MD soundtrack. Matsudaira arranged the
+GG version.
+
+Package problems:
+
+Package history:
+1.01 2010/09/09 karagh: +cover
+

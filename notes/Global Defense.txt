@@ -1,0 +1,28 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Global Defense / SDI
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Katsuhiro Hayashi
+Publisher:           Sega
+Package created by:  CRV
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Demo                                0:47   0:46
+Start                               0:02   -
+System Down (In-Game)               1:25   1:25
+Perfect                             0:06   -
+We are Desirous of Peace (Ending)   1:04   -
+SDI Blue Moon (Game Over)           1:07   -
+
+Notes:
+Katsuhiro Hayashi was responsible for the arcade version. SMS arranger is unknown.

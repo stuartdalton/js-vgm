@@ -1,0 +1,32 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Sonic's Edusoft
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                     Length:
+                         Total  Loop
+Title                    0:07   -
+Map                      0:33   0:33
+Mathematic Lessons       0:35   0:35
+Vehicle Lessons          0:27   0:27
+Food Lessons             0:46   0:46
+Animal Lessons           0:30   0:30
+Hurry!                   0:04   -
+Loser                    0:03   -
+Game Over (Mini-Games)   0:02   -
+
+Notes:
+
+Prototype version of the unreleased educational game software.

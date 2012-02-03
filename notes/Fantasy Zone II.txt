@@ -1,0 +1,36 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Fantasy Zone II
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Karagh
+Package version:     1.02
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:18   0:18
+Pastaria                            1:08   0:51
+Sarcand                             0:51   0:51
+Hiyarika                            0:45   0:45
+Bow Bow                             0:29   0:29
+Chaprun                             0:52   0:51
+Fuwareak                            0:46   0:38
+Spardian                            0:29   0:29
+Boss Theme                          0:32   0:32
+Boss Defeated!                      0:04   -
+Shop                                0:13   0:13
+Last Boss                           0:24   0:19
+Ending Theme                        0:34   0:34
+Game Over                           0:05   -
+
+Notes:
+1.01 package by fx^ and Martin Skog.

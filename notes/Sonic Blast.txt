@@ -1,0 +1,40 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Sonic Blast
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Kojiro Mikusa
+Publisher:           Sega
+Package created by:  Grass-eatin'me
+Package version:     0.90
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Opening Scene                       0:06   -
+Title Screen                        0:23   -
+Character Selection                 0:20   0:19
+Act Start                           0:03   -
+Green Hill Zone                     0:36   0:36
+Life Gained                         0:02   -
+Act Complete                        0:03   -
+Bonus Level                         0:32   0:32
+Boss Theme                          0:40   0:35
+Boss Defeat                         0:04   -
+Yellow Desert Zone                  0:37   0:37
+Red Volcano Zone                    0:56   0:56
+Blue Marine Zone                    0:34   0:34
+Silver Castle Zone                  0:34   0:34
+Ending                              0:19   -
+Staff Roll                          1:13   -
+Death                               0:02   -
+Game Over                           0:05   -
+
+Notes: 
+Master System version ripped.

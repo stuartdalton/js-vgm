@@ -1,0 +1,27 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Ms. Pac-Man
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega / Namco / Tengen
+Package created by:  Johnnyz
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Game Start                          0:04   -
+Act 1: They Meet                    0:07   -
+Act 2: The Chase                    0:19   -
+Act 3: Junior                       0:12   -
+Act 4: The End                      0:07   -
+
+Notes:
+-

@@ -1,0 +1,69 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Sonic Chaos
+                    Sonic & Tails (GG in Japan)
+System:          Sega Master System / Game Gear
+FM module:          No
+
+Music author:       Mix, Nagao N.Gee
+Game developer:     Aspect
+Game publisher:     Sega
+Game release date:  November 19, 1993 (GG)
+
+Package created by: Johnnyz, Classic Game Guy
+Package version:    1.01
+
+Song list, in approximate game order:
+Name (System)                       Length:
+                                    Total  Loop
+Intro, Electric Egg Zone 3          0:43   0:37
+Intro (GG)                          0:19   0:19
+Title Screen                        0:19   -
+Select Player                       0:25   0:23
+Select Player (GG)                  0:16   0:15
+Stage Start                         0:03   -
+Turquoise Hill Zone                 0:46   0:45
+Turquoise Hill Zone (GG)            0:46   0:45
+Stage Complete                      0:03   -
+Boss                                0:55   0:46
+Boss Defeated                       0:04   -
+Gigalopolis Zone                    0:59   0:51
+Gigapolis Zone (GG)                 0:51   0:39
+Sleeping Egg Zone                   0:41   0:41
+Sleeping Egg Zone (GG)              0:41   0:41
+Special Stage                       0:20   0:20
+Got Emerald                         0:02   -
+Chaos Emerald                       0:04   -
+Mecha Green Hill Zone               1:07   1:01
+Aqua Planet Zone                    0:51   0:50
+Aqua Planet Zone (GG)               0:52   0:50
+Special Stage 2                     0:41   0:41
+Electric Egg Zone                   1:08   1:07
+Final Boss                          1:00   0:57
+Ending                              2:53   -
+Bad Ending                          0:19   -
+Invincibility                       0:18   -
+Speed-Up Shoes                      0:11   0:11
+Rocket Shoes                        0:07   -
+Death                               0:03   -
+Continue                            0:17   -
+Game Over                           0:06   -
+Try Again                           0:04   -
+Sunset Park Zone Boss (Unused)      0:51   0:38
+Unused Music                        0:03   -
+
+Notes:
+Press DDUULRLR2 at the title screen to enter
+the sound test screen.
+"Sunset Park Zone Boss" is found in the Game
+Gear version but isn't used in the game; it was
+later used in "Sonic Triple Trouble".
+
+Package problems:
+sample-accurate log (only SMS logs)
+
+Package history:
+1.01 2010/09/09 karagh: +cover.
+

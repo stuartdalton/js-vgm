@@ -1,0 +1,42 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Fantasy Zone: The Maze / Opa Opa
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Hiroshi Miyauchi; Katsuhiro Hayashi
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.03
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Plaleaf                             1:09   1:01
+Tabas                               0:34   0:30
+La Dune                             0:28   0:25
+Dolimicca                           0:37   0:34
+Polaria                             0:38   0:38
+Mockstar                            0:46   0:46
+Pocarius                            0:38   0:30
+Top Power                           0:15   0:15
+Game Time                           0:02   -
+Round Clear                         0:04   -
+Parts Price                         0:42   0:42
+Bonus Game                          0:13   0:13
+Ending                              0:55   -
+Game Over                           0:12   -
+
+Notes:
+Some musics play in different rounds, as it goes:
+Music table:    Fantasy Zone   Fantazy Zone: The Maze
+Round           Tabas          Pocarius
+                La Dune        Tabas
+                Polaria        Mockstar
+                Mockstar       La Dune
+                Pocarius       Polaria

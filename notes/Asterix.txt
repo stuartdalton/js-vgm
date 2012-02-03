@@ -1,0 +1,50 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Asterix
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Takayuki Nakamura
+Publisher:           Sega
+Package created by:  DukeNukem; Johnnyz
+Package version:     1.02
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Intro                               0:20   0:16
+Title Screen                        0:09   -
+Map Screen                          0:13   0:13
+Asterix Theme                       0:46   0:31
+Obelix Theme                        0:24   0:24
+Water Cave                          0:34   0:34
+Rooftops                            0:12   0:12
+Castle                              0:16   0:16
+Snow Moutains & Inside Greece       0:26   0:26
+Cold Lake & Shooting Cannon         0:08   0:08
+Swamp & Outside Greece              0:26   0:26
+The Ship                            0:11   0:11
+Fire!                               0:19   0:19
+Egypt                               0:19   0:19
+Inside the Pyramid                  0:13   0:13
+Racing on the Colosseum             0:14   0:14
+End Credits                         1:14   -
+High Score Screen                   0:34   0:32
+Boss                                0:06   0:06
+Dogmatix                            0:39   0:34
+Special Stage                       0:18   0:16
+Underground                         0:09   0:09
+End Level A                         0:04   -
+End Level B                         0:04   -
+End Level C                         0:02   -
+Death                               0:02   -
+Unused Death                        0:03   -
+Unused Music                        0:23   0:23
+
+Notes:
+-

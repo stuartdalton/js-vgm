@@ -1,0 +1,40 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Power Strike II
+System:              Sega Master System
+FM module:           No
+
+Music author:        PSG Factory
+Game developer:      Compile
+Game publisher:      Sega
+Game release date:   1993
+
+Package created by:  CRV
+Package version:     1.02
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Story                               0:41   0:41
+Title Screen                        0:22   0:19
+Stage 1                             0:38   0:38
+Boss Music 1                        0:19   0:19
+Stage Clear                         0:05   -
+Stage 2                             0:49   0:49
+Boss Music 2                        0:30   0:30
+Stage 3                             0:59   0:57
+Stage 4                             0:50   0:50
+Stage 5                             0:39   0:39
+Stage 6                             0:41   0:41
+Stage 7                             0:43   0:43
+Stage 8                             0:44   0:42
+Ending                              0:35   0:35
+Game Over                           0:03   -
+
+Notes:
+
+Package history:
+1.02 2009/10/29 karagh: cover/info corrections.
+

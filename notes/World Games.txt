@@ -1,0 +1,44 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           World Games
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega / Epyx
+Package created by:  Johnnyz
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:22   0:22
+Select Name                         0:03   0:03
+Barrel Jumping                      0:09   0:09
+Won                                 0:01   -
+Lost                                0:01   -
+Next Event                          0:06   -
+Log Rolling                         0:10   0:10
+Log Rolling Results                 0:04   -
+Bull Riding                         0:05   0:05
+Caber Toss                          0:07   0:07
+Caber Toss Results                  0:04   -
+Final Results                       0:13   0:13
+The Star-Spangled Banner            0:10   -
+God Save the Queen                  0:07   -
+Das Lied der Deutschen              0:06   -
+National Anthem of the Soviet Union 0:07   -
+O Canada                            0:08   -
+Himno Nacional Mexicano             0:06   -
+Kimi Ga Yo                          0:09   -
+Sega Theme                          0:11   -
+Epyx Theme                          0:14   -
+Unused Music                        0:03   0:03
+
+Notes:
+-

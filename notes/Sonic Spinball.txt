@@ -1,0 +1,30 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Sonic Spinball
+System:              Sega Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Paul Gadbois
+Publisher:           Sega
+Files created by:    Grass-eatin'me
+Files version:       1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+				    Total  Loop
+Sega                                0:02   -
+Title Screen                        0:08   -
+Level Start                         0:04   -
+Toxic Pools                         0:54   0:54
+Lava Powerhouse                     0:53   0:53
+The Machine                         1:00   1:00
+Final Showdown                      1:41   1:33
+Bonus Level                         0:43   0:43             
+
+Notes:
+-

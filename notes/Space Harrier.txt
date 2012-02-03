@@ -1,0 +1,41 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Space Harrier
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Hiroshi Miyauchi; Tokuhiko Uwabo
+Publisher:           Sega
+Package created by:  Toog; CRV
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title                               0:26   -
+Lovers                              1:14   1:14
+Main BGM                            3:50   3:50
+Squilla                             0:34   0:34
+Ida                                 0:26   0:26
+Godarni                             0:26   0:26
+WiWi Jumbo                          1:52   1:23
+Battle Field                        1:22   1:22
+Syura                               0:38   0:38
+Valda                               0:17   0:17
+Stanrey                             0:51   0:51
+Haya Oh                             1:34   1:34
+Lake Side Memory                    1:03   -
+Aaargh!                             0:01   -
+Get Ready!                          0:01   -
+Game Over                           0:12   -
+White Summer                        0:31   -
+
+Notes:
+Songs were recorded from the game's sound test. To access it, press right, left, down, and up at the game's title screen.
+The WiWi Jumbo VGM was slightly modified. See its GD3 tag notes for details.
+This music was originally by Hiroshi Miyauchi and arranged for the SMS by Tokuhiko Uwabo (aka BO).

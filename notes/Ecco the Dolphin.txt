@@ -1,0 +1,41 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Ecco the Dolphin
+System:              Sega Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Csaba Gigor, Gábor Foltán
+Publisher:           Sega
+Files created by:    PsySonic (PsySonic@planetdreamcast.com)
+Files version:       1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Main Theme                          1:04   1:04
+Home Bay                            1:42   1:42
+The Storm                           0:09   0:09
+Medusa Bay                          0:55   0:55
+Undercaves                          1:04   1:04
+Open Ocean                          0:44   0:44
+Cold Water                          1:42   1:42
+Deep Water                          1:47   1:47
+City of Forever 1                   1:59   1:59
+Time Travel                         0:34   -
+Dark Water                          2:02   2:02
+City of Forever 2                   1:25   1:25
+The Tube                            2:08   2:08
+The Machine                         5:13   5:13
+Winning Scenes                      1:42   1:42
+Credits                             1:07   1:07
+Unused Music 1                      1:42   1:42
+Unused Music 2                      1:59   1:59
+
+Notes:
+Ecco the Dolphin: Caverns of Hope
+http://www.planetdreamcast.com/cavernsofhope

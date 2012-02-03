@@ -1,0 +1,28 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           The Pro Yakyuu Pennant Race
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Race to the Goal!                   0:12   0:12
+Home Run                            0:05   -
+Change                              0:05   -
+Game End                            0:18   -
+The Winner of Game                  0:09   -
+Unknown Music                       0:06   -
+
+Notes:
+-

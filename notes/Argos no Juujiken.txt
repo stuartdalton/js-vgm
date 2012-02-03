@@ -1,0 +1,37 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/Music               *
+***********************************************
+Game name:           Argos no Juujiken
+System:              Sega Master System
+Music hardware:      SN76496
+
+Music author:        Mikio Saito; Strong Shima
+Game developer:      Tecmo
+Game publisher:      Salio
+Game release date:   1988/3/25
+
+Package created by:  Sonic of 8!
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+Title Screen                        0:17   -
+Main Theme                          0:46   0:42
+Time Out                            0:08   0:08
+Boss                                0:12   0:12
+Round Clear                         0:16   -
+Ending                              0:42   -
+Game Over                           0:01   -
+Unused                              0:19   0:12
+
+Notes:
+The first third-party game on Japanese SMS!
+But there are only two 3rd party games:
+Argos no Juujiken and Solomon no Kagi. Both
+them was made by Tecmo and released by Salio.
+
+Package history:
+1.00 30/7/2011 Sonic of 8!: Initial release.
+1.01 23/8/2011 Maxim: Added Mikio Saito author name

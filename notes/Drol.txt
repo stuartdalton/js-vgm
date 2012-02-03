@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Drol
+System:             Sega Game 1000
+FM module:          No
+
+Music author:       unknown
+Game developer:     Sega
+Game publisher:     Sega
+Game release date:  1985
+
+Package created by: Sonic of 8!
+Package version:    1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title                               0:02   0:02
+Scrolling                           0:03   -
+Main Theme                          0:49   0:48
+Ending                              0:13   -
+But...                              0:11   -
+Game Over                           0:01   -
+
+Notes:
+
+Package problems:
+no Japanese tags; inaccurate release date;
+missing credits
+
+Package history:
+1.01 2010/09/14 karagh: ~cover
+

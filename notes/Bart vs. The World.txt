@@ -1,0 +1,24 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Bart vs. The World
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Andi McGinty
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+BGM 1                               0:06   0:06
+BGM 2                               0:27   0:27
+
+Notes:
+-

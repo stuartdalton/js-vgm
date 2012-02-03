@@ -1,0 +1,43 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Alien 3
+System:              Sega Master System / Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Matt Furniss
+Publisher:           Sega / Acclaim / Probe
+Package created by:  Johnnyz
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+20th Century Fox Fanfare            0:16   -
+Title Screen                        1:04   0:57
+Level Start                         0:02   -
+Episode 1                           1:14   1:07
+Episode 2                           1:36   1:36
+Episode 3 & 5                       0:59   0:52
+Episode 4                           1:27   1:18
+Level Complete                      0:12   0:06
+Ending                              0:41   0:34
+Time Over                           0:04   -
+Hostages Dying                      0:25   0:19
+Game Over                           0:06   -
+High Score                          0:30   0:22
+
+Notes:
+20th Century Fox Fanfare was composed by Alfred Newman.
+
+The 3 in the title should be superscript.
+
+This music was logged from the Master System version; 
+it is thought to be identical to the Game Gear version.
+
+20th Century Fox Fanfare and Level COmplete are not
+played in the game.

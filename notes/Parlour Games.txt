@@ -1,0 +1,85 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Parlour Games
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Mark Baker
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                    Length:
+                                        Total  Loop
+Title Screen                            0:17   -
+Select Your Game                        0:17   0:15
+Billiards                               0:14   0:14
+Billiards - Basic Game                  0:29   0:29
+Billiards - Five Ball                   1:14   1:14
+Billiards - Nine Ball                   0:40   0:40
+Billiards - Rotation                    0:21   0:21
+Billiards - Winner Player               0:04   -
+Billiards - Winner Computer             0:06   -
+Billiards - You Have Completed the Game 0:07   -
+Billiards - Play Again                  0:14   0:14
+Darts                                   0:19   0:19
+Darts - 301 and 501                     0:30   0:26
+Darts - Round the Clock                 0:27   0:27
+Darts - Double Down                     0:26   0:23
+Darts - Winner Computer or Player       0:07   -
+Darts - Play Again                      0:16   0:16
+Beat a Professional                     0:13   -
+World Bingo                             0:11   0:11
+World Bingo - Card Screen               0:23   0:23
+World Bingo - Number Spin Screen        0:20   0:16
+World Bingo - You Win                   0:02   -
+World Bingo - You Lost                  0:02   -
+World Bingo - Player Bust               0:05   -
+World Bingo - Game Over                 0:05   -
+World Bingo - Play Again                0:08   -
+Unused - Darts - 301 or 501             0:20   0:19
+Unused - Darts - Winner Player          0:04   -
+
+Notes:
+1) I did my best with song names... change them to your liking!
+
+2) Bingo's "You Win" and "You Lost" can be considered SEs because
+        they play ON TOP OF other music, but since it is a "tune"
+        they have been included as songs... 
+
+3) The specific names of the "Unused" songs are an educated guess as to
+        what they were supposed to be.  Both songs were found between
+        other "Darts" songs. (Using "memory trigger hack" at (CE02).
+        a) Unused-Darts-301 or 501 *because 301 and 501 have the same
+                song in the game. Mistake/Last minute change...?
+        b) Unused-Darts-Winner Player *because it plays the same song
+                whether you win or lose.  Mistake...?  I chose winner
+                because the song in the game sounds like you lost!
+                (...though the "unused" song doesn't exactly sound like
+                you have just won either...)
+        c) of course there is the chance that they actually ARE played
+                somewhere, and that I just didn't make it there...
+                but due to their location (as stated before) I assume
+                that (a) and (b) are probably true (and unreachable
+                in the game).
+
+4) Using the "memory trigger hacking" at (CE02)...
+        $9C and $9D play the same song... Are they the same?  I can't
+                remember which one I used...
+        
+5) In the track tags I could add "katakana" versions of the song names I
+        created, but is that really necessary (because I created them...)?
+
+6) I still don't know the original author of the music (wish I knew...
+        this is some pretty cool music!).  The game has no built-in
+        credits, and the manual (which I do have, but cannot get to)
+        may or may not have it.  So if someone could kindly check the
+        manual for me...please...        
+
+7) School Sucks... can't do any fun stuff...!

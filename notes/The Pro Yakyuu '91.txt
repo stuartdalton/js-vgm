@@ -1,0 +1,34 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           The Pro Yakyuu '91
+System:              Sega Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Yoshiaki Kashima
+Publisher:           Sega
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Player Batting                      0:13   0:11
+Runner on First Base (Player)       0:19   0:08
+Runner on Second Base (Player)      0:25   0:14
+Provocation                         0:03   -
+Home Run                            0:06   -
+Change                              0:07   0:07
+CPU Batting                         0:08   0:08
+Runner on First Base (CPU)          0:20   0:12
+Runner on Second Base (CPU)         0:24   0:16
+Game Set                            0:06   -
+Unknown Music 1                     0:12   -
+Unknown Music 2                     0:12   -
+
+Notes:
+The Provocation occurs while the runner is safe.

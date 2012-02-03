@@ -1,0 +1,40 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           SpellCaster
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Sting Ogawa
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:11   -
+Adventure Screen                    1:26   1:17
+Temple                              0:38   0:38
+Enemy                               0:48   0:43
+Forest                              0:38   0:38
+Lute                                0:13   0:13
+Underwater                          0:29   0:29
+Kakogen                             0:32   0:32
+Mt Hinokami                         0:26   0:26
+Pyramid                             0:26   0:26
+Underworld                          0:38   0:38
+Mystic Harp 1                       0:04   -
+Mystic Harp 2                       0:04   -
+Final Battle                        0:35   0:35
+Ending                              0:51   0:51
+Death                               0:03   -
+Kujakuou Ending                     1:05   1:04
+Unused Music                        0:08   0:04
+
+Notes:
+Export version of Kujakuou. The Japanese game was released in 1988.

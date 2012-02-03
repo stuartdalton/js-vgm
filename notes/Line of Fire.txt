@@ -1,0 +1,42 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Line of Fire
+System:             Sega Master System
+FM module:          No
+
+Music author:       Teruhiko Nakagawa
+Game developer:     Sega
+Game publisher:     Sega
+Game release date:  1991
+
+Package created by: Grass-eatin'me,
+                    Hroþgar SCRB
+Package version:    1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Demo                          0:31   -
+Advertise                           0:29   -
+Opening-Map                         0:19   0:19
+Dynamite Guy                        0:45   0:45
+Desert Rose                         1:01   1:01
+The River                           0:42   0:42
+Desert                              0:52   0:45
+Final Battle                        0:26   0:26
+Majestic Army                       1:08   -
+Game Over                           0:06   -
+
+Notes:
+Logged and tagged by Grass-eatin'me. Timed by
+Hroþgar SCRB.
+
+Package problems:
+inaccurate release date; sample-accurate log;
+no Japanese tags
+
+Package history:
+1.01 2010/09/08 karagh: +cover
+

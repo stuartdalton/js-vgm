@@ -1,0 +1,34 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Monopoly
+System:             Sega Master System
+FM module:          No
+
+Music author:       Scott Statton,
+                    Scott Joplin, Milton Ager
+Game developer:     Nexa
+Game publisher:     Sega
+Game release date:  1987
+
+Package created by: Johnnyz
+Package version:    1.02
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+The Entertainer                     0:26   -
+Menu                                0:26   0:26
+Going to Jail                       0:06   -
+Free from Jail                      0:03   -
+Happy Days are Here Again           0:21   -
+
+Notes:
+
+Package problems:
+sample-accurate log; inaccurate release date
+
+Package history:
+1.02 2010/09/08 karagh: +cover
+

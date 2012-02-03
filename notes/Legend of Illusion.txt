@@ -1,0 +1,49 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Legend of Illusion
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega / Disney
+Package created by:  Johnnyz
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Intro Part 1                        0:35   -
+Intro Part 2                        1:28   1:23
+Intro Part 3                        0:28   -
+Title Screen                        0:11   -
+Map                                 0:08   0:07
+Castle Goofstein                    0:58   0:41
+Stage Clear                         0:03   -
+Story                               0:07   0:07
+Forest                              0:29   0:29
+Castle Duckingham                   0:40   0:40
+Boss                                0:19   0:18
+Sphinx                              0:14   0:13
+Sunken Ruins                        1:00   0:56
+Crystal Forest                      1:10   1:09
+Rainbow Wastelands                  0:54   0:48
+Gardens of Illusion                 0:45   0:42
+Tree of Life                        0:48   0:45
+Enemy                               0:19   0:19
+Dragon (Beginning)                  0:02   -
+Dragon                              0:43   0:43
+Falls of Fortune                    0:46   0:46
+Walking On The Rainbow              0:09   -
+Tree of Life Story                  0:23   0:23
+Final Boss - King Pete              0:46   0:46
+Ending                              1:55   -
+Death                               0:02   -
+Continue                            0:05   0:04
+
+Notes:
+-

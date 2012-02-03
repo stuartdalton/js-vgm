@@ -1,0 +1,62 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Sonic the Hedgehog 2
+System:              Sega Master System /
+                     Sega Game Gear
+FM module:           No
+
+Music author:        Masafumi Ogata; Naofumi
+                     Hataya; Tomonori Sawada
+Game developer:      Aspect Co. Ltd
+Game publisher:      Sega
+Game release date:   1992/10/16 / 1992/10/29
+
+Package created by:  Grass-eatin'me,
+                     Valley Bell
+Package version:     2.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Opening Demo                        0:31   -
+Title Screen                        0:20   -
+Act Start                           0:03   -
+Underground Zone                    1:30   1:30
+Act Complete                        0:04   -
+Found Emerald!                      0:04   -
+Invincible                          0:19   0:19
+Boss Theme                          0:58   0:58
+Sky High Zone                       0:48   0:48
+Aqua Lake Zone                      1:37   1:36
+Green Hills Zone                    1:10   1:04
+Gimmick Mountain Zone               1:21   1:20
+Scrambled Egg Zone                  1:04   0:58
+Crystal Egg Zone                    1:08   1:00
+Ending                              2:19   -
+The End                             0:04   -
+Death                               0:04   -
+Game Over                           0:06   -
+
+
+Notes:
+Grass-eatin'me logged the Game Gear version.
+
+For the redump, the Master System version was
+used where both versions have equal tracks.
+Also the rerips are sample-accurate, because
+I was unable to find an offset without rounding
+errors.
+But I optimized them with vgm_smp1 -delay:30 to
+make them a least a little smaller.
+
+
+Package history:
+1.00 2006/10/10 Grass-eatin'me: Initial
+release?
+2.00 2011/11/13 Valley Bell: Redumped most
+tracks, added MS Boss and unused tracks,
+reordered playlist.

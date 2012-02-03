@@ -1,0 +1,31 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Sega Chess
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Matt Furniss
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:56   -
+White Wins                          1:28   -
+Black Wins                          0:23   -
+
+Notes:
+This game features a lot of voice samples, which 
+are built from a library of individual word
+samples. Because there are so many of them, and 
+they can't be arranged into anything pleasing,
+they have been omitted.
+
+This is the first SMS music Matt Furniss wrote.

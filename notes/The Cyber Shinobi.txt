@@ -1,0 +1,46 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          The Cyber Shinobi
+System:             Sega Master System
+FM module:          No
+
+Music author:       Shirige Nuki, Shiriko Dama
+Game developer:     Sega
+Game publisher:     Sega
+Game release date:  1990
+
+Package created by: guangling_san, fx^, CRV
+Package version:    1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Intro                               0:55   0:55
+Title Screen                        0:06   0:06
+Round Start                         0:02   -
+The City                            0:30   0:30
+Boss Theme                          0:19   0:19
+Round Clear                         0:03   -
+At The Docks                        0:27   0:27
+Outside The Base                    0:38   0:38
+Jungle                              0:24   0:24
+The Waterfall                       1:10   1:10
+Zeed's Domain                       0:45   0:45
+Outro                               0:46   0:42
+Credits                             0:17   0:17
+Death                               0:02   -
+Game Over                           0:03   -
+
+Notes:
+Zeed Again!
+Music logged by guangling_san. Trimmed by fx^.
+Some tracks redone by CRV.
+
+Package problems:
+inaccurate release date; no Japanese tags
+
+Package history:
+1.01 2010/09/08 karagh: +cover
+

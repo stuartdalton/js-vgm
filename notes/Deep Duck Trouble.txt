@@ -1,0 +1,52 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name: Deep Duck Trouble - Starring Donald Duck
+          Donald Duck no 4-tsu no Hihou (Japan)
+System:          Sega Master System / Game Gear
+FM module:          No
+
+Music author:       Saori Kobayashi
+Game developer:     Aspect
+Game publisher:     Sega
+Game release date:  December 17th, 1993 (GG)
+
+Package created by: Johnnyz, Yawackhary
+Package version:    1.11
+
+Song list, in approximate game order:
+Name (System)                       Length:
+                                    Total  Loop
+Intro (SMS)                         1:09   -
+Intro (GG)                          1:42   -
+Island                              0:07   -
+Title Screen                        0:13   0:13
+Map                                 0:06   0:06
+Savanna                             0:27   0:24
+Jungle                              0:28   0:28
+Boss Appears                        0:03   -
+Boss Scene                          0:52   0:41
+Boss Clear                          0:05   -
+Victory                             0:09   0:09
+Volcano 1                           0:24   0:24
+Volcano 2                           0:29   0:26
+Under Water                         0:30   0:30
+Sunken Ship                         0:19   0:19
+Ice Cavern                          0:32   0:32
+Shrine2                             0:28   0:25
+Statue                              0:05   0:05
+Final Boss                          0:29   0:29
+Ending                              1:21   0:05
+Credits                             0:24   0:24
+Pepper                              0:13   0:13
+Death                               0:02   -
+Continue                            0:03   0:03
+
+Notes:
+
+Package problems:
+
+Package history:
+1.11 2010/09/09 karagh: +cover.
+

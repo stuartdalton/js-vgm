@@ -1,0 +1,41 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Phantasy Star
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Tokuhiko Uwabo
+Publisher:           Sega
+Package created by:  fx^
+Package version:     1.04
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title                               0:27   0:27
+Intro                               0:51   0:51
+Town                                0:39   0:38
+Shop                                0:13   0:13
+Palma                               0:38   0:38
+Battle                              0:26   0:26
+Cave                                0:40   0:38
+Church                              0:19   0:19
+Vehicle                             0:38   0:38
+Story                               0:13   0:13
+Motavia                             0:53   0:53
+Boss Dungeon                        0:25   0:25
+Village                             0:19   0:19
+Dezoris                             0:32   0:32
+Medusa                              0:51   0:51
+Lassic                              0:26   0:26
+Dark Falz                           0:26   0:26
+Game Over                           0:05   -
+Ending                              1:05   -
+
+Notes:
+Thanks to Paul Jensen for sending Save states which really helped me making this dump.

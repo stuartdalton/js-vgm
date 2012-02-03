@@ -1,0 +1,46 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Gunstar Heroes
+System:              Sega Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Kazuo Hanzawa, Hitoshi Sakimoto, M.Yuzuno, M.Yoshida, Y.Mizusawa
+Publisher:           Sega / Treasure / M2
+Package created by:  Karagh
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                  Length:
+                                      Total  Loop
+Introduction                          0:57   0:57
+Legend of the Gunstars                1:43   -
+Last Party on the Moon                1:17   1:12
+Choose a Path                         0:23   0:13
+Military on the Max-Power             0:58   0:51
+Bravoo Man                            1:36   1:30
+Defeat Pinky Roader!                  0:51   0:51
+Rolling Chaser                        1:17   1:17
+Theme of Seven-Force                  1:06   0:51
+Stairs Too High                       1:22   1:22
+Dancing-Smash-Hero                    0:44   0:27
+Stage Clear                           0:06   -
+Empire ~ The Final Assault            1:10   1:10
+Theme of Smash Daisaku                0:54   0:49
+Good Night, Baby!                     0:52   0:52
+Decision                              0:58   0:58
+Control Unit HDR                      0:38   0:38
+Theme of Golden-Silver                1:05   1:05
+The End of the Battle ~To Out World~  1:58   1:58
+Heroes ~ Reprise for Yellow           1:09   0:58
+All Clear                             0:05   -
+Continue?                             0:22   0:13
+
+Notes:
+Hanzawa composed the original MD soundtrack, Sakimoto wrote the music driver, and Yuzuno, Yoshida and Mizusawa are credited with "Audio Design".
+This game was ported from the Megadrive by M2.
+1.00 package created by DJ Squarewave.

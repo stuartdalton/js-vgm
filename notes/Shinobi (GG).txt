@@ -1,0 +1,52 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Shinobi
+                     The GG Shinobi (Japan)
+System:              Game Gear
+FM module:           No
+
+Music author:        Yuzo Koshiro
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   April 26, 1991
+
+Package created by:  Matthew Dickinson
+Package version:     1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Opening                             0:26   -
+Select                              0:13   0:13
+Round Selected                      0:03   -
+Rush                                0:25   0:24
+Joe                                 0:20   0:19
+Boss                                0:19   0:19
+Round Clear                         0:04   -
+First Step                          0:37   0:37
+Distant Thunder                     0:38   0:38
+Spirit                              0:24   0:24
+Darkside                            0:38   0:38
+Cavern                              0:26   0:26
+Woodland 2                          0:21   0:21
+The Last Dungeon                    0:26   0:26
+Boss 2                              0:32   0:32
+Death                               0:02   -
+Game Over                           0:04   -
+Explosion 1                         0:04   -
+Explosion 2                         0:04   -
+Ending                              1:18   -
+
+Notes:
+Song titles taken from Yuzo Koshiro's CD
+"Early Collection 2", except "Round Selected",
+"Woodland 2", "Death" and "Explosion"s.
+
+Package problems:
+sample-accurate log; no Japanese tags
+
+Package history:
+1.01 2010/08/15 karagh: +cover
+

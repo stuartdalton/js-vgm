@@ -1,0 +1,39 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Shinobi
+System:              Sega Master System
+FM module:           No
+
+Music author:        unknown
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   June 19th, 1988
+
+Package created by:  Johnnyz
+Package version:     1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Stage                               0:44   0:37
+Stage Complete                      0:04   -
+Bonus Stage                         0:37   0:37
+Boss                                0:56   0:56
+Death                               0:04   -
+Unused Music 1                      0:48   0:46
+Unused Music 2                      0:03   -
+Unused Music 3                      0:04   -
+Voice                               0:01   -
+
+Notes:
+
+Package problems:
+sample-accurate log, only "voice" must be
+sample-accurate; missing credits; no Japanese
+tags
+
+Package history:
+1.01 2010/08/16 karagh: +cover
+

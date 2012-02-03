@@ -1,0 +1,33 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Choplifter
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Hairy Uwa
+Publisher:           Sega
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Round Start                         0:01   -
+Round 1                             0:35   0:35
+Round Clear                         0:01   -
+Round 2                             0:13   0:13
+Round 3                             1:13   1:13
+Credits                             0:06   -
+Game Over                           0:06   -
+Unused Music                        0:06   0:06
+Unknown Music 1                     0:04   -
+Unknown Music 2                     0:03   -
+Unknown Music 3                     0:06   -
+
+Notes:
+Hairy Uwa is Tokuhiko Uwabo in the credits.

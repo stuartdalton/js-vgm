@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Buggy Run
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  CRV
+Package version:     1.02
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:35   -
+Shop                                0:06   0:06
+Set Up                              0:12   0:04
+BGM 1                               1:31   1:12
+BGM 2                               0:46   0:46
+BGM 3                               0:31   0:31
+BGM 4                               0:51   0:51
+BGM 5                               0:54   0:46
+BGM 6                               0:54   0:54
+Final Lap                           0:43   0:38
+Result                              0:03   -
+Winner                              0:04   -
+Ending                              1:40   -
+Battle                              0:29   0:12
+
+Notes:

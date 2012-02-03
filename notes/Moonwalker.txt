@@ -1,0 +1,40 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:         Michael Jackson's Moonwalker
+System:              Sega Master System
+FM module:           No
+
+Music author:      Takayuki Nakamura (arranger)
+            Michael Jackson (original composer)
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   1990
+
+Package created by:  CRV
+Package version:     1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Smooth Criminal                     1:09   1:09
+Dancing to Smooth Criminal          0:08   -
+Taunt from Mr. Big                  0:12   0:08
+Intermission                        0:10   0:10
+Beat It                             0:55   0:47
+Dancing to Beat It                  0:07   -
+Another Part of Me                  0:50   0:48
+Dancing to Another Part of Me       0:08   -
+Billie Jean                         1:19   1:17
+Dancing to Billie Jean              0:08   -
+Bad                                 0:47   0:47
+Dancing to Bad                      0:07   -
+Mr. Big                             0:46   0:46
+
+Notes:
+-
+
+Package history:
+1.01 2010/01/08 karagh: cover & minor changes
+

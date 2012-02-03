@@ -1,0 +1,40 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Woody Pop
+System:              Sega Master System
+Music hardware:      SN76496
+
+Music author:        Unknown
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   1987/03/15
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+Title Screen                        0:08   0:08
+Round Start                         0:03   -
+Main Music 1                        0:04   0:04
+Round Clear                         0:01   -
+Main Music 2                        0:06   0:06
+Main Music 3                        0:04   0:04
+Ending                              0:30   0:25
+Game Over                           0:01   -
+Unknown Music                       0:08   0:08
+
+Notes:
+Track 9 acts a kind of Bonus Stage music, but
+I was beaten the game, and I didn't find any
+related with the music (both SMS & GG versions).
+
+Woody Pop was the last game that came in card
+version (Sega My Card Mark III), and Sega was
+left the Card format.
+
+Package history:
+1.00 22/7/2011 Sonic of 8!: Initial release.

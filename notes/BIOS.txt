@@ -1,0 +1,33 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           BIOS (US v1.3 and Japanese v2.1)
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  Some
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Maxim, Sonic do 8!
+Package version:     2.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Sega Tune                           0:03   -
+Snail Maze                          0:09   0:09
+Snail Maze - Level End              0:02   -
+Snail Maze - Congratulations!       0:05   -
+Space Harrier Main BGM              4:15   3:50
+
+Notes:
+
+To play the snail game on a real Master System with a suitable BIOS,
+press Up+1+2 on the "Enjoy!!" screen which appears when the power's
+turned on with no game inserted.
+
+"Space Harrier Main BGM" uses the FM and PSG chips simultaneously;
+the rest do not include FM.

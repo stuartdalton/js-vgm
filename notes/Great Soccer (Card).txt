@@ -1,0 +1,27 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Great Soccer (Card)
+System:              Sega Master System
+Music hardware:      PSG
+
+Music author:        Unknown
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   1985/10/27
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+Main Game                           0:29   0:22
+Game Set                            0:14   -
+
+Notes:
+-
+
+Package history:
+1.00 3/8/2011 Sonic of 8!: Initial release.

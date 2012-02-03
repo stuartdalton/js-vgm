@@ -1,0 +1,31 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           High School! Kimengumi
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:10   -
+Story                               0:17   -
+In Game                             0:58   0:47
+Piano                               0:09   0:08
+Harmonica                           0:13   0:13
+Trumpet                             0:03   -
+Lost                                0:04   -
+End                                 0:20   -
+Unused Music                        1:12   1:07
+
+Notes:
+-

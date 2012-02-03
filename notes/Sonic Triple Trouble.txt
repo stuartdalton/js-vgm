@@ -1,0 +1,54 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Sonic The Hedgehog: Triple Trouble / Sonic & Tails 2
+System:              Sega Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Yayoi Wachi
+Publisher:           Sega/Aspect Co. Ltd
+Package created by:  Tom
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+Sega Voice                          0:02   -
+Introduction                        0:23   -
+Title Screen                        0:10   -
+Player Select                       0:06   0:06
+Level Start                         0:03   -
+Great Turquoise Zone                0:41   0:41
+Sunset Park Zone                    0:48   0:48
+Sunset Park Zone Train              0:51   0:38
+Meta Junglira Zone                  1:58   1:50
+Robotnik Winter Zone                0:29   0:29
+Tidal Plant Zone                    0:52   0:43
+Atomic Destroyer Zone               0:38   0:32
+Metal Sonic                         0:22   0:20
+Dr. Robotnik                        0:48   0:44
+Meet Knuckles                       0:23   -
+Ending                              2:58   -
+High Speed Sneakers                 0:12   -
+Hyper Heli Tails                    0:06   -
+Invincible                          0:13   -
+Rocket Shoes                        0:07   -
+Propeller Shoes                     0:05   -
+Sea Fox                             0:07   0:07
+2D Bonus Stage                      0:47   0:47
+Nack the Weasel                     0:36   0:30
+3D Bonus Stage                      0:30   0:30
+Get Emerald                         0:05   -
+Boss Theme                          0:24   0:21
+Level Complete                      0:03   -
+Extra Life                          0:01   -
+Death                               0:04   -
+Continue                            0:11   -
+Game Over                           0:04   -
+Try Again                           0:05   -
+
+Notes:
+-

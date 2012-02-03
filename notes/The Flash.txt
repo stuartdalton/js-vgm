@@ -1,0 +1,38 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           The Flash
+System:              Sega Master System
+FM module:           No
+
+Music author:        Jeroen Tel
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   1993
+
+Package created by:  Johnnyz
+Package version:     1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        1:50   1:50
+Episode Intro                       0:44   0:44
+Trickster for Mayor                 1:08   0:51
+You've Done It                      0:02   -
+Well Done Flash                     0:02   -
+Rollercoaster Runner                0:51   0:51
+Warehouse Antics                    0:53   0:53
+Trouble at Mega Corp                1:16   1:16
+At Peace in the Park                1:29   1:29
+The Trickster's Funhouse            1:08   1:08
+Ending                              0:51   0:51
+Game Over                           0:04   -
+High Score                          0:05   0:05
+
+Notes:
+
+Package history:
+1.01 2009/01/09 karagh: added cover.
+

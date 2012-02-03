@@ -1,0 +1,27 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Out Run 3-D
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Hiroshi Miyauchi
+Publisher:           Sega
+Package created by:  Shaka; Maxim
+Package version:     1.03
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Magical Sound Shower                5:04   4:29
+Midnight Highway                    2:05   1:49
+Color Ocean                         2:06   2:06
+Shining Wind                        2:42   2:40
+Last Wave                           1:16   -
+
+Notes:
+PSG version.

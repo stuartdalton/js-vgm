@@ -1,0 +1,37 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Master of Darkness
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Fumie "Fumi" Kumatani/Nasubi "Nasu Bi" Katatani
+Publisher:           Sega
+Package created by:  CRV
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Intro                               1:38   -
+Story                               1:22   1:22
+Round Start                         0:03   -
+Thames River                        1:00   1:00
+Death                               0:02   -
+Stage Clear                         0:02   -
+Boss                                0:39   0:38
+Round Clear                         0:05   -
+The House of Wax Dolls              0:27   0:25
+Epitaph                             1:55   0:58
+Laboratory                          0:58   0:51
+In the Wake of Dracula              0:59   0:59
+Final Battle                        0:36   0:34
+Ending                              2:19   -
+
+Notes:
+This is the same game (and music) as "Vampire" for the Master System, and 
+"Vampire: Master of Darkness" amd "In the Wake of Vampire" for the Game Gear.

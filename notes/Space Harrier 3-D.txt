@@ -1,0 +1,46 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Space Harrier 3-D
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Hiroshi Miyauchi; Izuho Numata
+Publisher:           Sega
+Package created by:  Matt Dickinson
+Package version:     1.00
+
+Music, in order of sound test: 
+
+Name                                Length:
+                                    Total  Loop
+
+Main BGM                            3:50   3:50
+Title                               0:15   -
+Ending                              0:19   0:19
+Stanley                             0:13   0:13
+Vakda                               0:09   0:09
+Bright Rays                         0:53   0:53
+Volcano                             0:29   0:29
+Mysterious Sky                      1:24   0:42
+Danger Area                         0:38   0:38
+Game Over                           0:38   -
+Squilla                             0:38   0:38
+Ida                                 0:26   0:26
+Goderni                             0:19   0:19
+Syura                               0:54   0:54
+Wiwi Jumbo                          1:33   -
+White Summer                        0:47   -
+Lovers                              0:55   0:55
+Lake Side Memory                    0:47   -
+Battle Field                        0:41   0:41
+
+
+Notes:
+Space Harrier 3-D includes variations of the
+arcade music, plus four exclusive tracks: 
+Bright Rays, Volcano, Mysterious Sky, 
+and Danger Area. 

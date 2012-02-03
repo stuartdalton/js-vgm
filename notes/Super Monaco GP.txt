@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Super Monaco GP
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Koichi Namiki
+Publisher:           Sega
+Files created by:    Johnnyz
+Files version:       1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Exhaust Fumes                       0:58   0:38
+The Heat Waves                      1:05   1:04
+The Checker Flag                    0:04   -
+Extreme Tension                     0:31   0:29
+Hold in Check                       0:19   0:19
+The Bitterness                      0:19   0:19
+A Break                             0:03   -
+Ending                              0:19   0:19
+Theme of Monaco                     1:28   0:58
+Super License                       0:06   -
+Unused Music 1                      0:07   -
+Unused Music 2                      0:06   -
+
+
+Notes:
+-

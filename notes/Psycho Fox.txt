@@ -1,0 +1,37 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Psycho Fox
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown (see below)
+Publisher:           Sega
+Package created by:  Maxim; Johnnyz
+Package version:     1.02
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:51   0:51
+Mystical Mountains                  0:52   0:52
+Skull Land                          1:08   1:08
+Diabolical Desert                   0:57   0:57
+Pause                               0:15   0:15
+Magic Medicine                      0:11   -
+Boss                                0:38   0:38
+Amida                               0:43   0:43
+Warp Zone                           0:30   0:30
+Ending                              1:08   -
+Lose a Life                         0:04   -
+Game Over                           0:06   -
+
+Notes:
+Mystical Mountains, Skull Land and Diabolical Desert are levels 1 to 3 respectively. Levels 4 to 6 get levels 1 to 3's music respectively. Level 7 gets level 2's.
+"Amida" is the proper name of the bonus game.
+"Magic Medicine" is what makes you invincible.
+The game's only sound credit is "Sound Editor: Mr. Question".

@@ -1,0 +1,34 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           The Ninja
+System:              Sega Master System
+FM module:           No
+
+Music author:        unknown
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   November 08, 1986
+
+Package created by:  Maxim
+Package version:     1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Main Theme                          0:51   0:51
+Level Start                         0:02   -
+Grassy Field                        0:54   0:51
+A Craggy Cliff                      0:53   0:51
+A Stone Wall                        0:42   0:38
+Gyokuro                             0:32   0:32
+Ending                              0:21   0:21
+Game Over                           0:05   -
+
+Notes:
+Track names and usage thanks to Mecha Kawaii.
+
+Package history:
+1.01 2010/01/09 karagh: added cover.
+

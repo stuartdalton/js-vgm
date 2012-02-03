@@ -1,0 +1,33 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Megumi Rescue
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:19   -
+Rounds 1-10                         0:38   0:38
+Round Clear                         0:03   -
+Perfect                             0:02   -
+Bonus Start                         0:04   -
+Bonus Game                          0:26   0:26
+Rounds 11-20                        0:29   0:29
+Rounds 21-30                        0:51   0:51
+Ending                              0:44   -
+Game Over                           0:03   -
+Unused Jingle                       0:02   -
+
+Notes:
+-

@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Bomber Raid
+System:              Sega Master System
+FM:                  No
+
+Music author:        Ohtorii
+Game developer:      Sanritsu
+Game publisher:      Activision
+Game release date:   1988
+
+Package created by:  CRV
+Package version:     1.01
+
+Song list, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:19   -
+Game Start                          0:04   -
+In-Game                             0:38   0:38
+Boss                                0:10   0:10
+Mission Clear                       0:13   -
+Final Mission                       0:19   0:19
+Final Boss                          0:11   0:11
+Game Over                           0:03   -
+Ending                              0:26   -
+
+Notes:
+
+Package history:
+1.01 (2009/10/23)(karagh): added cover.
+

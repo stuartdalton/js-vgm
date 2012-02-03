@@ -1,0 +1,27 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Champion Tennis
+System:              Sega Game 1000
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown; Ruthann Friedman
+Publisher:           Sega
+Package created by:  CRV
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Windy (Match Start)                 0:09   -
+Match End                           0:03   -
+
+Notes:
+The opening bars of "Windy" by The Association, a 
+60s Californian "sunshine pop" group, was used for
+the start of a game. The composer for that song was
+Ruthann Friedman.

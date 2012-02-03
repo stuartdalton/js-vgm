@@ -1,0 +1,36 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Super Boy II
+System:              Sega Game 1000
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Zemina
+Package created by:  Sonic of 8!
+Package version:     2.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Main Theme 1                        0:32   0:29
+Main Theme 2                        0:11   0:11
+1UP Sound                           0:01   -
+
+Update:
+2.00:
+- Removed sound effects.
+
+1.01 (unreleased):
+- Added a Korean Names for this game and 
+Japanese Name for the System.
+
+1.00 (unreleased):
+- First Release.
+
+Notes:
+Unlicensed Super Mario Bros. clone

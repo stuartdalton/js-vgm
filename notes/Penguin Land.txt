@@ -1,0 +1,36 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Penguin Land
+  Doki Doki Penguin Land - Uchuu-Daibouken (JP)
+System:             Sega Master System
+FM module:          No
+
+Music author:       unknown
+Game developer:     Sega
+Game publisher:     Sega
+Game release date:  August 18th, 1987
+
+Package created by: Johnnyz
+Package version:    1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:19   0:16
+Status Screen                       0:06   -
+Game Start                          0:06   -
+In Game                             0:34   0:34
+Round Complete                      0:16   -
+Ending                              0:10   -
+
+Notes:
+"Ending" is still not confirmed.
+
+Package problems:
+missing credits
+
+Package history:
+1.01 2010/09/08 karagh: +cover
+

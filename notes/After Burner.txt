@@ -1,0 +1,31 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           After Burner
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Hiroshi Miyauchi
+Publisher:           Sega
+Package created by:  Johnnyz / Grass-eatin'me
+Package version:     1.02
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Maximum Power                       0:28   0:26
+Get Ready                           0:01   -
+Final Take Off                      1:24   1:23
+After Burner                        1:15   1:15
+Super Stripe                        1:41   1:40
+Red Out                             1:36   1:32
+City 202                            0:19   0:17
+
+Notes:
+Pack: Tagged by Grass-eatin'me; Logged and trimmed by Johnnyz.
+
+Extra: Hiroshi Miyauchi's since married and become Hiroshi Kawaguchi.

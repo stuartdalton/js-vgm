@@ -1,0 +1,31 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Prince of Persia
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Matt Furniss
+Publisher:           Domark
+Package created by:  Maxim
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:11   -
+Intro                               0:22   -
+Hourglass                           0:20   0:19
+Level Start                         0:02   -
+Get Sword                           0:04   -
+Potion                              0:03   -
+Death                               0:04   -
+Mirror Prince                       0:09   -
+Grand Vizier                        0:12   -
+
+Notes:
+-

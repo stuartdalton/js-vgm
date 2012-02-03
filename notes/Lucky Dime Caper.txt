@@ -1,0 +1,42 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Lucky Dime Caper
+System:              Sega Master System / Sega Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega / Disney
+Package created by:  Johnnyz
+Package version:     1.02
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Intro                               1:44   -
+Stage Select                        0:06   0:06
+The Northern Woods                  0:21   0:20
+Boss                                0:15   0:15
+Story                               0:06   0:05
+The Great American Forest &
+  The South Pole                    0:34   0:32
+The Andes Mountains                 0:31   0:31
+The Tropical Isles                  0:39   0:39
+The Pyramids                        1:31   1:31
+Unused South Pole                   0:31   0:27
+Magica's Castle                     0:40   0:40
+Magica de Spell                     0:25   0:25
+Victory                             0:07   -
+Ending                              0:37   -
+Invincibility                       0:15   -
+Death                               0:03   -
+Continue                            0:09   0:08
+Intro (GG)                          1:18   -
+Ending (GG)                         0:42   -
+
+Notes:
+-

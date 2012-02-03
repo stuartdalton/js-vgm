@@ -1,0 +1,43 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Wanted
+System:             Sega Master System
+FM module:          No
+
+Music author:       Ootorii
+Game developer:     Sanritsu
+Game publisher:     Sega
+Game release date:  1989
+
+Package created by: Johnnyz
+Package version:    1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:47   -
+Select Mode                         0:08   -
+Scene Start                         0:07   -
+Tombstone & Nugget Town             0:34   0:34
+Scene Clear                         0:07   -
+Desert & Wastelands                 0:19   0:19
+Challenge Scene                     0:15   0:15
+Mary's Saloon & Ricky's Hotel       0:26   0:26
+Final Duel                          0:34   0:34
+Ending                              0:32   0:32
+Game Over                           0:05   -
+Title Screen 2                      0:19   0:19
+
+Notes:
+"Title Screen 2" is the "Title Screen" looped 
+and with drums. It never plays in the game like
+this.
+
+Package problems:
+inaccurate release date; no Japanese tags
+
+Package history:
+1.01 2010/09/08 karagh: +cover
+

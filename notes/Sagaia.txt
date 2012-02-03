@@ -1,0 +1,40 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Sagaia
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Hisayoshi Ogura, Iku Mizutani
+Publisher:           Taito
+Files created by:    Karagh
+Files version:       1.01
+
+Files, in approx game order:
+
+Name                                Length:
+                                    Total  Loop
+Olga Breeze ~ Sun Scene             2:35   1:36
+Warning!                            0:07   -
+Round Clear                         0:21   0:19
+Muse Valley ~ Mercury Scene         1:38   1:38
+Jamming ~ Venus Scene               1:36   1:10
+Cynthia ~ Moon Scene                1:13   1:12
+Planet Blue ~ Earth Scene           1:45   1:45
+Boss 2 ~ Boss Scene 2               1:05   1:05
+To Nari ~ Mars Scene                0:58   0:58
+War Oh! ~ Boss Scene 1              1:15   1:15
+Say PaPa ~ Jupiter Scene            4:46   1:58
+All Clear                           0:29   0:26
+Ending                              0:45   0:45
+Name Set                            0:08   0:08
+
+Notes:
+Hisoyoshi Ogura, known as "OGR" composed all the tracks of this set. Iku Mizutani programmed it for the Sega Master System. OGR was and is a member of Taito's soundteam and band Zuntata.
+
+Game usually known as "Darius II", all tracktitles from the soundtrack, "Taito G.S.M 4 - Darius II" (PCCB-00010).
+
+1.00 package created by Grass-eatin'me.

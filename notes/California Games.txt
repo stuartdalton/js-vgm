@@ -1,0 +1,43 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           California Games
+System:              Sega Master System
+FM module:           No
+
+Music author:        unknown / Richard Berry
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   1989
+
+Package created by:  Johnnyz
+Package version:     1.03
+
+Song list, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Louie Louie                         0:39   0:29
+Menu                                0:30   0:30
+Event Intro                         0:01   -
+Half Pipe                           0:59   0:59
+Foot Bag                            0:38   0:34
+Surfing                             0:40   0:40
+Skating                             0:48   0:48
+BMX                                 0:14   0:14
+Flying Disk                         0:22   0:22
+Success                             0:02   -
+Shark                               0:01   0:01
+Go Thrasher                         0:01   -
+Hack It                             0:01   -
+Hang Ten                            0:01   -
+Like Totally                        0:01   -
+Aggro Man                           0:01   -
+Hey Dude                            0:01   -
+
+Notes:
+
+Package history:
+1.03 (2009/10/26)(karagh): added cover.
+

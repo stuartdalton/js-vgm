@@ -1,0 +1,32 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Dick Tracy
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  LordPekka
+Package version:     1.01
+
+Files, in sound test order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:29   0:29
+Wave Start                          0:03   -
+A "Dynamite Case" Begins...         0:06   -
+Street/Harbor                       0:30   0:28
+Train                               0:51   0:51
+Car Chase                           0:27   0:26
+Boss                                0:17   0:17
+Tracy Vows To Return                0:05   -
+Ending                              0:08   -
+Bonus                               0:16   0:16
+
+Notes:
+All files ripped and trimmed by LordPekka.

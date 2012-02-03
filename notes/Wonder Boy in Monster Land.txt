@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Wonder Boy in Monster Land
+System:              Sega Master System
+FM module:           No
+
+Music author:        Shinichi Sakamoto
+Game developer:      Sega - Team AM7
+Game publisher:      Sega
+Game release date:   October 10, 1988
+
+Package created by:  Maxim
+Package version:     1.02
+
+Song list, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Main Theme                          0:48   0:48
+Boss                                0:38   0:38
+Town                                0:32   0:32
+Shop                                0:13   0:13
+Cave & Castle                       0:38   0:38
+Flute                               0:04   -
+Labyrinth of No End                 0:45   0:45
+So Long                             1:30   -
+Round Clear                         0:05   -
+Death                               0:06   -
+
+Notes:
+
+Package history:
+1.02 (2009/10/20)(karagh): Repacked to vgm7z.

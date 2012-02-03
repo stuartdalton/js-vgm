@@ -1,0 +1,39 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Golden Axe
+System:             Sega Master System
+FM module:          No
+
+Music author:       Nankyoku, Y. T., Dolphin
+Game developer:     Sega
+Game publisher:     Sega
+Game release date:  1989
+
+Package created by: Hroþgar SCRB
+Package version:    1.03
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:14   -
+The Battle                          0:14   0:06
+Wilderness                          2:37   2:37
+Thief's Theme                       0:25   0:25
+Turtle Village 1                    1:40   1:40
+Turtle Village 2                    0:50   0:50
+Fiend's Path                        2:06   2:06
+Battle Field                        1:45   1:45
+Conclusion                          0:37   -
+
+Notes:
+
+Package problems:
+no Japanese tags; inaccurate release date;
+"The Battle" has a bad note at the start and
+incorrectly looped (too many repeats in intro)
+
+Package history:
+1.03 2010/09/07 karagh: +cover, ~tags
+

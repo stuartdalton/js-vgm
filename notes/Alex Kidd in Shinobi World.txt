@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Alex Kidd in Shinobi World
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Xor
+Publisher:           Sega
+Package created by:  fx^; Jacko
+Package version:     1.03
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Intro                               0:52   -
+Level Start                         0:12   -
+Kabuto                              0:54   0:51
+Raid of the Helicopters             1:20   1:17
+The Jungle                          0:58   0:58
+The Battle with the Dark Ninja      0:45   0:45
+Boss                                0:56   0:56
+Level Complete                      0:04   -
+Death                               0:03   -
+Continue Screen                     0:04   -
+Congratulations To You, Alex        0:03   0:03
+Ending                              0:38   0:38
+Unknown                             0:37   0:24
+
+Notes:
+-

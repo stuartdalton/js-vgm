@@ -1,0 +1,28 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Back to the Future Part II
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:57   0:45
+2015                                0:52   0:49
+Jennifer Stage                      0:51   0:49
+Alternate 1985                      1:30   1:23
+Enchantment Under the Sea           1:46   1:45
+1955                                0:49   0:48
+
+Notes:
+-

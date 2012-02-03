@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Cloud Master
+System:              Sega Master System
+FM module:           No
+
+Music author:        unknown
+Game developer:      Hot-B, Taito
+Game publisher:      Sega
+Game release date:   1989
+
+Package created by:  Marc Klemp
+Package version:     1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Round Start                         0:01   -
+Mt. Gogyo                           0:24   0:24
+The Koh River                       0:15   0:15
+The Great Wall                      0:20   0:20
+Mt. Tai                             0:29   0:29
+The Buddha's Heaven                 0:13   0:13
+Shop                                0:06   0:06
+Boss                                0:06   0:06
+Ending                              0:10   0:10
+Game Over                           0:01   -
+
+Notes:
+
+Package history:
+1.01 2010/07/01 karagh: +cover.
+

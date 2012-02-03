@@ -1,0 +1,44 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Shadow Dancer - The Secret Of Shinobi
+                    The Secret Of Shinobi (Brazil)
+System:             Sega Master System
+FM module:          No
+
+Music author:       K. T.
+Game developer:     Sega
+Game publisher:     Sega
+Game release date:  1991
+
+Package created by: CRV
+Package version:    1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:10   -
+Stage Start                         0:02   -
+The Airport Concourse               0:51   0:40
+Boss                                0:29   0:29
+Bonus Stage 1                       0:19   0:18
+Won Bonus Stage                     0:03   -
+Lost Bonus Stage                    0:01   -
+Along the Railroad                  2:09   2:08
+Bonus Stage 2                       0:22   0:22
+In the Sewers                       1:02   1:02
+Shuttle Base                        0:37   0:37
+The Final Conflict                  0:55   0:51
+Ending                              0:45   -
+Death                               0:12   -
+Game Over                           0:08   0:07
+
+Notes:
+
+Package problems:
+inaccurate release date
+
+Package history:
+1.01 2010/09/08 karagh: +cover
+

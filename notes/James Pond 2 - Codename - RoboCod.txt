@@ -1,0 +1,33 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           James Pond 2 - Codename: Robocod
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Richard Joseph
+Publisher:           U.S. Gold
+Package created by:  Stefan Lindberg
+Package version:     1.03
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Intro                               1:21   1:21
+BGM 1                               1:09   1:09
+Guardian                            0:20   0:20
+Level Complete                      0:03   -
+BGM 2                               0:50   0:50
+BGM 3                               0:23   0:23
+BGM 4                               0:59   0:59
+Hidden Level                        0:15   0:15
+
+Notes:
+Not really sure if it was Richard Joseph who did the
+Sega Master System version music. He did the original
+music for Atari ST and Amiga and they sound the same
+as the Master System version.

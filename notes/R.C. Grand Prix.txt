@@ -1,0 +1,23 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           R.C. Grand Prix
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Scott Marshall
+Publisher:           Sega
+Files created by:    Johnnyz
+Files version:       1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Main Theme                          1:46   1:46
+
+Notes:
+-

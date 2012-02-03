@@ -1,0 +1,41 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Summer Games
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega / Epyx
+Package created by:  Johnnyz
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Opening                             0:16   -
+Title Screen                        0:38   0:38
+Event Start                         0:04   -
+Pole Vault                          0:23   0:23
+100m Dash                           0:47   0:47
+End of 100m Dash                    0:02   -
+Gymnastics                          0:28   0:28
+Platform Diving                     0:29   0:29
+100m Freestyle                      0:17   0:17
+End of 100m Freestyle               0:02   -
+Unused Music                        0:02   -
+The Star-Spangled Banner            0:32   -
+Kimi Ga Yo                          0:22   -
+God Save the Queen                  0:18   -
+La Marseillaise                     0:32   -
+National Anthem of the Soviet Union 0:19   -
+National Banner Song                0:13   -
+Imnos eis tin Eleftherian           0:18   -
+Auferstanden aus Ruinen             0:17   -
+
+Notes:
+-

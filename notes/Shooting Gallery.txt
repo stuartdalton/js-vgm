@@ -1,0 +1,33 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Shooting Gallery
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Marc Klemp (Supreme1) and Maxim
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title                               00:20  00:20
+Just For The Birds                  00:20  00:20
+Aerial Attack                       00:20  00:20
+Twisting Tubes                      00:20  00:20
+TV Terror                           00:30  00:23
+Score                               00:15  00:15
+Score Tune                          00:01  -
+Victory                             00:20  00:20
+
+
+Notes:
+The "Perfect!" voice sample was not included in the package due
+to the fact that it is actually of very bad audio quality.
+

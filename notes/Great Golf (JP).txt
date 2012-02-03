@@ -1,0 +1,28 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Great Golf (JP)
+System:              Sega Master System
+Music hardware:      SN76496
+
+Music author:        Unknown
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   1986/12/20
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+Title Screen                        0:10   -
+Game Start                          0:08   -
+Game Over                           0:05   -
+
+Notes:
+-
+
+Package history:
+1.00 20/7/2011 Sonic of 8!: Initial release.

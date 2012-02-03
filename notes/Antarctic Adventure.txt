@@ -1,0 +1,26 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Antarctic Adventure
+System:              Colecovision
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Konami
+PAckage created by:  Tafoid
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Game Start                          0:05   -
+The Skater's Waltz                  0:26   0:26
+Level Completed                     0:05   -
+Game Over                           0:05   -
+
+Notes:
+MY First VGM - Be Gentle :)

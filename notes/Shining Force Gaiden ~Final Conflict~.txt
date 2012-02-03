@@ -1,0 +1,58 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name: Shining Force Gaiden ~Final Conflict~
+System:              Sega Game Gear
+Complete music dump: Yes
+
+Original author:     Motoaki Takenouchi
+Publisher:           Sega
+Package created by:  Hendricks266
+Package version:     1.10
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Fanfare                             0:03   -
+Welcome!                            1:04   0:35
+Legend of Light                     1:00   1:00
+Fight! with the Ancient Light       0:20   0:13
+Place of Rest                       1:19   1:14
+Flashback                           4:05   -
+Devoted Soldier's Requiem           0:31   0:30
+Secret Maneuvers                    0:46   0:26
+Victory Road                        0:27   0:27
+Shining Force Gaiden 3              0:12   -
+Oh Curses!                          0:03   -
+Joining the Force                   0:06   -
+Save                                0:02   -
+Antidote                            0:03   -
+Revive                              0:05   -
+Class Change                        0:03   -
+Cursed                              0:01   -
+Searching Chest!                    0:03   -
+Distant Journey Calls               1:07   1:07
+Frontline                           1:13   1:13
+Devil's Revival                     0:54   0:51
+Message from Ancient Times          0:28   0:28
+Dark Force                          0:21   0:19
+Fall of Footsteps                   0:22   0:22
+Prelude to Battle                   0:30   0:21
+Queen of Darkness                   0:51   0:48
+Hole in the Heart                   0:52   0:51
+Whereabouts of Fate                 0:08   -
+Chaos Breaker                       0:09   -
+Peace that Overflows                0:47   0:47
+
+Notes:
+
+Names taken from in-game sound test, using the
+Shining Force Central English translation.
+
+Motoaki Takenouchi also composed the music for
+Shining Force II, and because of the two games'
+relationship, many of the tracks were ported to
+this game.

@@ -1,0 +1,33 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Home Alone
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Matt Furniss
+Publisher:           Sega
+Package created by:  Maxim
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:21   0:06
+Family House & Power House          0:48   0:46
+Fun House                           0:58   0:35
+Green House                         1:17   1:09
+Haunted House                       1:40   1:40
+Level Complete                      0:10   0:06
+Ending                              1:11   0:03
+Time Up                             0:03   -
+Captured                            0:03   -
+Got Away                            0:02   -
+Hidden Track                        0:48   0:38
+
+Notes:
+-

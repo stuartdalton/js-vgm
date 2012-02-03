@@ -1,0 +1,38 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Gangster Town
+System:             Sega Master System
+FM module:          No
+
+Music author:       unknown
+Game developer:     Sega
+Game publisher:     Sega
+Game release date:  1987
+
+Package created by: Johnnyz
+Package version:    1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Practice                            0:13   0:13
+Qualified                           0:12   -
+Car Chase & Harbor                  0:58   0:58
+Downtown                            0:53   0:45
+Saloon & Nightclub                  0:51   0:51
+Congratulations                     0:29   0:29
+Failed                              0:08   -
+Game Over                           0:06   -
+Unused Music                        0:02   -
+
+Notes:
+
+Package problems:
+no Japanese tags; inaccurate release date;
+missing credits
+
+Package history:
+1.01 2010/09/07 karagh: +cover
+

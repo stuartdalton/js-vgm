@@ -1,0 +1,34 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Flicky
+System:             Sega Game 1000
+FM module:          No
+
+Music author:       unknown
+Game developer:     Sega
+Game publisher:     Sega
+Game release date:  1984
+
+Package created by: Sonic of 8!
+Package version:    1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Main Theme                          0:17   0:12
+Round Clear                         0:02   -
+Bonus Round                         0:05   0:05
+Lost a Life                         0:01   -
+Game Over                           0:02   -
+
+Notes:
+
+Package problems:
+no Japanese tags; inaccurate release date;
+missing credits
+
+Package history:
+1.01 2010/09/14 karagh: ~cover
+

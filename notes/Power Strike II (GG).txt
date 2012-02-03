@@ -1,0 +1,42 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Power Strike II / Aleste 2
+System:              Sega Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original authors:    Imami Pon & BA.M
+Publisher:           Sega
+Package created by:  Karagh
+Package version:     1.02
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Theme                               0:44   0:29
+Weapon Select                       0:51   0:41
+Space Plant                         0:58   0:58
+Ground Base                         0:50   0:43
+Bionic City                         0:52   0:45
+Ancient Ruins                       1:10   0:58
+Cyber Road                          0:41   0:20
+Inter Algo                          0:44   0:44
+Bonus Stage                         0:39   0:38
+Level Finished                      0:07   -
+Boss                                0:23   0:22
+Cyber Road ~ Boss                   1:09   0:59
+Inter Algo ~ Boss                   0:34   0:26
+Game Over                           0:15   -
+Continue                            0:40   0:26
+Ending                              2:40   -
+Unknown 1                           0:30   0:30
+Unknown 2                           0:52   0:51
+Unknown 3                           1:33   1:06
+
+Notes:
+1.01 package created by Martin Konrad.
+I don't know where three of the songs are used in the game. Any ideas?

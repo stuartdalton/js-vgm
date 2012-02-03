@@ -1,0 +1,40 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Battletoads
+System:              Sega Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     David Wise
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Main Theme                          1:28   0:06
+Intermission                        0:03   0:03
+Ragnarok's Canyon                   1:04   1:04
+Boss                                0:09   0:07
+Level Clear                         0:02   -
+Wookie Hole                         1:42   1:42
+Turbo Tunnel                        0:09   0:09
+Turbo Tunnel (Bike)                 1:25   1:19
+Arctic Caverns                      0:52   0:52
+Surf City                           0:58   0:58
+Karnath's Lair                      1:04   1:04
+Karnath's Lair (fast)               0:52   0:52
+Volkmire's Inferno                  0:46   0:39
+Intruder Excluder & Terra Tubes     0:46   0:44
+Rat Race                            0:45   0:38
+Clinger Winger                      0:06   0:06
+The Revolution                      1:05   1:05
+Game Over & Continue                0:13   0:04
+
+Notes:
+-

@@ -1,0 +1,37 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Marble Madness
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Brad Fuller; Hal Canon; Matt Furniss
+Publisher:           Tengen
+Package created by:  fx^; Yawackhary
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Practice Race                       1:04   1:04
+Beginner Race                       0:51   0:51
+Intermediate Race                   0:47   0:30
+Aerial Race                         1:02   0:30
+Silly Race                          0:38   0:36
+Ultimate Race                       0:41   0:26
+Congratulations                     0:16   0:03
+Game Over                           0:03    -
+Unused                              0:27    -
+
+Notes:
+Tracks ripped by fx^ from the sound test and updated
+tags by Yawackhary which was compared to the arcade
+original (and also uses the arcade names for the tracks).
+Tune 09 is not in the arcade version and is currently
+unknown which is done by Matt Furniss himself. All
+other tracks are arrangements of the original arcade
+songs, written by Brad Fuller and Hal Canon.

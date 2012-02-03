@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Batman Returns
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Motohiro Kawashima; Mikito Ichikawa; Yuzo Koshiro
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.02
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:17   0:17
+Route Select                        0:04   0:03
+Stage 1                             0:26   0:25
+Boss                                0:51   0:45
+Stage 2                             0:41   0:37
+Catwoman                            0:32   0:32
+Stage 3                             0:44   0:44
+Stage 4                             0:51   0:51
+Stage 5                             0:59   0:51
+Penguin                             0:29   0:29
+Ending                              0:59   0:59
+Death                               0:02   -
+Game Over                           0:03   -
+
+Notes:
+-

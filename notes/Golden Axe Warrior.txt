@@ -1,0 +1,37 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Golden Axe Warrior
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Tarnya
+Publisher:           Sega
+Package created by:  Karagh
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Intro                               0:47   0:31
+Title                               0:11   -
+New Game                            0:10   0:10
+Village                             0:31   0:30
+Inside                              0:24   0:23
+Overworld                           0:40   0:40
+Dungeon                             0:36   0:29
+Find Item                           0:02   -
+Boss Fight                          0:26   0:26
+Magic                               0:51   0:51
+Death Adder Defeated                0:06   -
+Ending                              0:58   0:58
+Death                               0:08   -
+
+
+Notes:
+Thanks to Death Adder for making the Save States I used while making this VGM Package.
+1.00 package by fx^.

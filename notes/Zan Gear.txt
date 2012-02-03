@@ -1,0 +1,30 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Zan Gear
+System:              Sega Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Motoi Sakuraba
+Publisher:           Wolfteam
+Package created by:  Maxim
+Package version:     1.00
+
+Files, in approximate soundtrack order:
+
+Name                                Length:
+                                    Total  Loop
+Age of Heat Haze                    2:51   2:51
+Turbulent Age                       1:52   1:52
+A Good Drink                        0:06   -
+A Bitter Cup                        0:05   -
+Final Dirge                         1:43   1:42
+Tears of Mortification              1:47   1:47
+Spring of His Life                  1:51   1:50
+
+Notes: 
+Many thanks goes to Grass-eatin'me for his original version of this VGM pack.
+All titles are from "Zan II: The Age of Heat Haze" (TOCT-5654).

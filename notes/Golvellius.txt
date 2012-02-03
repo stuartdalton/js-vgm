@@ -1,0 +1,65 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Golvellius - Valley of Doom
+                        Maou Golvellius (Japan)
+System:              Sega Master System
+FM module:           No
+
+Music author:       Myam, Shant, Shin-kun, Pazu
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   August 14, 1988
+
+Package created by:  fx^ / Johnnyz
+Package version:     1.00
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:33   0:33
+Intro                               0:31   0:31
+Overworld 1                         0:32   0:32
+First Cave                          1:04   0:48
+Old Woman                           0:24   0:24
+Fairy                               0:14   0:14
+Randar                              0:12   0:12
+Vertical Scrolling Cave             0:23   0:22
+First Boss - Despa                  0:31   0:31
+Victory                             0:03   -
+Enny                                0:16   0:16
+Winkle                              0:13   0:13
+Horizontal Scrolling Cave           0:31   0:31
+Second Boss - Rolick                0:23   0:23
+Overworld 2                         0:46   0:46
+Overworld 3                         0:17   0:17
+Third Boss - Bachular               0:19   0:19
+Dina                                0:21   0:21
+Fourth Boss - Fosbus                0:13   0:13
+Fifth Boss - Warlic                 0:29   0:29
+Overworld 4                         0:27   0:27
+Overworld 5                         0:51   0:38
+Sixth Boss - Crawky                 0:16   0:16
+Seventh Boss - Haidee               0:13   0:13
+Final Cave                          0:24   0:20
+Final Boss - Golvellius             0:28   0:28
+Ending                              2:00   -
+Input Password                      0:25   0:25
+Game Over                           0:30   0:30
+Unknown                             0:16   0:16
+
+Notes:
+Sound test: Before the main character enters
+the cave at the start of the game, hold U+L+1+2.
+Song 1E is not featured, being the same as 1D.
+Likewise for 1F and 20. Bosses have different
+names in many versions of the game. The
+Overworld theme changes in the game when you
+buy a new weapon or shield.
+One track name is "Unknown". If you can help
+name it, please contact us at
+http://www.smspower.org/music/
+
+Package history:
+1.00 2010/01/09 karagh: added cover.

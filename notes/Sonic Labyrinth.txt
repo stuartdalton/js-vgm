@@ -1,0 +1,37 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Sonic Labyrinth
+System:              Sega Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Atsuko Iwanaga
+Publisher:           Sega
+PAckage created by:  Grass-eatin'me
+PAckage version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+Title Screen                        0:28   -
+Menu                                0:29   0:29
+Act 1                               0:56   0:56
+Act 2                               1:06   0:46                  
+Act 3                               0:52   0:50
+Scroll Zone                         0:52   0:50
+Level 1-2-3 Boss                    0:44   0:38
+Smiley Bomb                         0:56   0:36
+Bonus Level                         0:45   0:43
+Act Start                           0:03   -
+Act Complete                        0:12   0:12
+Ending                              1:27   0:55
+Death                               0:04   -
+Game Over                           0:04   -
+
+Notes:
+'Act 3' wasn't included in the soundtest. Extra
+tags by Yawackhary (fixes) and CRV (full
+composer name).

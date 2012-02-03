@@ -1,0 +1,32 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Hang On
+System:              Sega Master System/SG-1000
+FM module:           No
+
+Music author:        unknown
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   October 20, 1985
+
+Package created by:  Marc Klemp
+Package version:     1.12
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:06   -
+Congratulations!                    0:06   -
+Game Over                           0:17   -
+Hidden Track                        0:30   0:30
+
+Notes:
+Thanks to Michael Cukan for noticing that the
+"Hidden Track" was missing. "Hidden Track" can
+be heard only in SG-1000.
+
+Package history:
+1.11 ---/--/-- x:Track names fixed.1.12 2009/11/19 karagh: added cover
+

@@ -1,0 +1,39 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Taz-Mania
+System:              Sega Master System
+Complete music dump: No
+FM:                  No
+
+Original author:     Satoshi Namekawa, Kouichi Shimamura, Takashi Masuzaki
+Publisher:           Sega
+Package created by:  Zeugma440
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:49   0:46
+Round Start                         0:17   -
+Plains                              0:15   0:15
+Boss                                0:10   0:10
+Jungle                              0:38   0:38
+Caves                               0:31   0:31
+Ruins                               0:14   0:14
+Lost Valley                         0:07   0:07
+Final Boss                          0:27   0:27
+Ending                              0:41   0:41
+Invincible                          0:06   0:06
+Game Over                           0:10   0:10
+
+Notes:
+I do not consider the music dump as complete, because the "Invincible" music
+is longer than what I captured: you can hear more of it when you die while
+being invincible. However it's impossible to record that while playing, since
+there would also be "dying" FXs. I read about a Taz-Mania sound test that
+would allow me to record that tune in its integrity, but I've never been able
+to activate it.

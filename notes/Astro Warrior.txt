@@ -1,0 +1,33 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Astro Warrior
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Sonic of 8!
+Package version:     1.10
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title                               0:17   -
+Galaxy Zone                         0:57   0:51
+Boss                                0:17   0:17
+Warping                             0:03   -
+Asteroid Zone                       0:26   0:25
+Nebula Zone                         0:19   0:19
+Death                               0:02   -
+Game Over                           0:05   -
+Unused                              0:03   -
+
+Notes:
+
+I'm hacked with one PAR code: 00DC00:XX 
+(replace XX to 80 - 92. Disable it code work).

@@ -1,0 +1,31 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Spider-Man vs The Kingpin
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Main Theme                          1:25   0:34
+Beginning                           0:15   0:14
+Warehouse                           1:42   1:08
+Sewers                              2:20   1:38
+Power Plant                         3:58   2:33
+Park                                2:43   1:59
+City                                1:33   1:08
+Hideout                             1:33   0:59
+Boss                                1:22   0:59
+
+Notes:
+-

@@ -1,0 +1,45 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Casino Games
+System:              Sega Master System
+FM module:           No
+
+Music author:        unknown
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   1989
+
+Package created by:  Johnnyz
+Package version:     1.00
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:19   -
+Select Name                         0:14   0:14
+Information                         0:16   0:16
+Menu                                0:27   0:27
+Poker                               0:29   0:27
+Blackjack                           0:20   0:20
+Baccarat                            2:10   1:03
+Won                                 0:01   -
+Lost                                0:00   -
+Slot Machine                        0:32   0:32
+Slot Machine Win                    0:01   -
+Slot Machine Jackpot                0:08   -
+Pinball                             0:46   0:38
+Pinball Game Over                   0:05   -
+You Did It                          0:08   -
+Ending                              0:25   0:25
+Bankrupt                            0:06   -
+There's Still Tomorrow              0:54   -
+Unknown 1                           0:34   0:32
+Unknown 2                           0:03   -
+
+Notes:
+
+Package history:
+1.00 2010/07/01 karagh: +cover.
+

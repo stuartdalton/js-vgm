@@ -1,0 +1,44 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Land of Illusion
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     T.Sawada, P.Chung & Ippo
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Intro                               0:48   0:32
+Title Screen                        0:14   -
+Map                                 0:17   0:16
+Story                               0:29   0:29
+Forest                              0:50   0:47
+Stage Complete                      0:03   -
+Lake and Flower Field               0:54   0:50
+Castle                              0:54   0:50
+Boss                                0:38   0:38
+Castle Ruins                        0:46   0:45
+Tiny Cavern                         0:22   0:20
+Toy Workshop                        0:30   0:30
+Desert                              0:31   0:28
+Map Over Clouds                     0:16   0:16
+Sand Castle                         0:49   0:46
+Island                              0:44   0:44
+Phantom's Castle                    1:05   1:01
+Final Boss                          0:35   0:35
+Victory                             0:06   -
+Ending                              1:08   1:06
+Death                               0:03   -
+Continue                            0:14   0:14
+
+Notes:
+-

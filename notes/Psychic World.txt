@@ -1,0 +1,36 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Psychic World
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Izuho Takeuchi
+Publisher:           Sega
+Files created by:    Johnnyz
+Files version:       1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Main Theme                          1:58   -
+Title Screen                        0:35   -
+Round Intro                         0:21   -
+Prairie                             0:32   0:32
+Boss                                0:20   0:19
+Victory                             0:06   -
+Volcanic Area                       0:48   0:45
+Ice Field                           0:52   0:51
+Ruins                               0:24   0:23
+Fortress                            0:39   0:38
+Final Boss                          0:26   0:26
+Dr. Knavik's Revelation             0:54   -
+Ending                              1:06   -
+Game Over                           0:04   -
+
+Notes:
+-

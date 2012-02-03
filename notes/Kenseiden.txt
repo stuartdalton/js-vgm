@@ -1,0 +1,38 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Kenseiden
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.02
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:16   -
+Higo, Nagato, Settsu, Owari
+  and Echyu                         0:26   0:26
+Map                                 0:12   0:12
+Chizuken and Kaga                   0:19   0:19
+Iyo and Suraga                      0:25   0:25
+Yamato and Mito                     0:28   0:28
+Training Entrance                   0:25   0:12
+Training Round                      0:28   0:28
+Victory                             0:02   -
+Fail in Training                    0:04   -
+Black Magic Castle                  0:43   0:43
+Warlock Battle                      0:28   0:28
+Yonensai, the Master                0:27   0:27
+Ending                              0:13   0:12
+Game Over                           0:06   -
+
+Notes:
+-

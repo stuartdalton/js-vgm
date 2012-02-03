@@ -1,0 +1,42 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Altered Beast
+System:              Sega Master System
+FM module:           No
+
+Music author:        K. "Nav" Nagai
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   1988
+
+Package created by:  Johnnyz
+Package version:     1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Werewolf & Gold Werewolf            2:07   1:45
+Power Up                            0:01   -
+Roar                                0:02   -
+Transformed                         1:18   1:17
+Hahahahahaha                        0:02   -
+Unused Story                        0:12   -
+Weredragon & Weretiger              1:04   1:04
+Ending                              2:22   -
+Aaagh                               0:01   -
+Game Over                           0:05   -
+
+Notes:
+The Mega Drive versin credits "NAV", and
+the "Power Drift and Mega Drive GSM Sega 2 -
+S.S.T. Band" OST credits "Master", but the
+composer's real name is thought to be K. Nagai.
+If you can find how this is written in
+Japanese, and a cite for this information,
+it will be added to the pack.
+
+Package history:
+1.01 2009/10/25 karagh: added cover.
+

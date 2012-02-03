@@ -1,0 +1,39 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Rainbow Islands
+System:             Sega Master System
+FM module:          No
+
+Music author:       Tadashi Kimijima,
+             Hisayoshi Ogura, Katsuhiko Asakura
+Game developer:     Taito
+Game publisher:     Sega
+Game release date:  1993
+
+Package created by: Grass-eatin'me
+Package version:    1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Opening                             0:16   0:16
+Prelude                             0:04   -
+Rainbow Island                      0:26   0:26
+Old Man's Legend                    0:38   0:38
+Round Clear                         0:04   -
+Sorceror Drunk                      0:12   0:12
+Candy Everywhere                    0:06   -
+Continue                            0:09   0:09
+Game Over                           0:04   -
+
+Notes:
+
+Package problems:
+sample-accurate log; no Japanese tags;
+inaccurate release date
+
+Package history:
+1.01 2010/09/06 karagh: +cover, +date
+

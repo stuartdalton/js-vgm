@@ -1,0 +1,36 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Fantasy Zone
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Tokuhiko Uwabo
+Publisher:           Sega
+Package created by:  Martin Skog; fx^
+Package version:     1.04
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:09   -
+Plaleaf                             0:58   0:51
+Tabas                               0:32   0:26
+La Dune                             0:29   0:26
+Dolimicca                           0:27   0:27
+Polaria                             0:38   0:38
+Mockstar                            0:29   0:26
+Pocarius                            0:51   0:51
+Boss                                0:26   0:26
+Game Over                           0:08   -
+Shop                                0:38   0:38
+Last Boss                           0:17   0:17
+Boss Defeated!			    0:05   -
+Ending                              0:47   -
+
+Notes:
+The in-game credit is for "Noah Toku", a pseudonym of Tokuhiko Uwabo.

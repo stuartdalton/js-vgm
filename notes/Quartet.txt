@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Quartet / Double Target
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Katsuhiro Hayashi
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:11   -
+Round 1                             1:49   1:17
+Round Clear                         0:10   -
+Round 2                             1:10   0:58
+Round 3                             1:06   0:53
+Round 4                             1:15   1:00
+Round 5                             1:37   1:30
+Round 6                             1:27   1:05
+Final Boss                          0:38   0:38
+Ending                              0:31   -
+Game Over                           0:12   -
+
+Notes:
+The Round 6 music has been modified from the original version. The first 1:27
+of the original were used and then looped. This was done because the original
+would play for an extremely long time before it would ever fully loop.

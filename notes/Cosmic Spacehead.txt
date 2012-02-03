@@ -1,0 +1,73 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Cosmic Spacehead
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Matt Symonds/Allister Brimble/Lyndon Sharp
+Publisher:           Codemasters
+Package created by:  Maxim
+Package version:     1.03
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        1:20   1:20
+Old Lino Town                       0:31   0:31
+Headcases                           0:31   0:31
+Cape Carnival                       0:35   0:35
+The Wilderness                      0:31   0:31
+Passport Control                    0:31   0:31
+Flopters                            0:38   0:38
+Tubeflies                           0:15   0:15
+The River Bank                      0:31   0:31
+Surfing                             0:31   0:31
+Dodgey City                         0:31   0:31
+Formica                             0:38   0:38
+Bumper Car Race                     0:31   0:31
+Secret Tunnel                       0:31   0:31
+Linograd                            0:46   0:46
+Bangers                             0:35   0:35
+The Caves                           0:48   0:48
+Cosmic Coast                        0:18   0:18
+No Man's Causeway                   0:31   0:31
+Frogs                               0:31   0:31
+Linoville                           0:38   0:38
+Bouncers                            0:31   0:31
+Bus                                 0:46   0:46
+Space                               0:38   0:38
+Factory Reception                   0:31   0:31
+Factory                             0:42   0:42
+Beast 64bit                         0:31   0:31
+Workshop                            0:35   0:35
+Scrapyard 1                         0:35   0:35
+Scrapyard 2                         0:42   0:42
+Vork                                0:31   0:31
+Jetcar                              0:31   0:31
+Space Station #59-C Hub             0:38   0:38
+Space Station #59-C Odd Arms        0:31   0:31
+Space Station #59-C Arm Ends        0:44   0:44
+Ending                              0:46   0:46
+Ending End                          0:04   -
+
+Notes:
+
+Recorded at 50Hz because the game was designed, made and only released in Europe.
+
+Tracks are generally named after the first prominent location they appear (for puzzle sections) or the enemy names (some of which are named in the manual) (for platform sections).
+
+I omitted 4 very short tunes played:
+- when the menu appears
+- when you lose a life
+- when you get Game Over
+- when you win the race or a game of Pie Slap
+...because they are verging on being sound effects.
+
+I did not realise how many tunes this game had until I recorded them all! It's quite an impressive number - with a repeat count of 2 there's over an hour of music.
+
+The manual credits Allister Brimble and Lyndon Sharp with "Sound". The Mega Drive version has full credits and credits Matt Symonds with "Music" and other people with "Music coding", so I think Matt Symonds is the composer.

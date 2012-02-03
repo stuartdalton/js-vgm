@@ -1,0 +1,37 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Ren and Stimpy: Quest for the Shaven Yak
+System:              Sega Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown; Christopher Reccardi; Charlie Brissette
+Publisher:           Sega / Realtime Associates
+Package created by:  DJ Squarewave
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Theme                         0:39   0:39
+Introduction                        0:59   0:59
+Character Select & Results          0:27   0:27
+Stage Start                         0:03   -
+Stage 1                             0:49   0:49
+Stage 2                             1:00   1:00
+Stage 3                             1:04   1:04
+Boss Theme                          0:48   0:48
+Stage Clear                         0:04   -
+Happy Happy Joy Joy                 0:45   0:45
+The Log Song                        1:17   1:17
+Invincibility                       0:13   -
+Player Down                         0:02   -
+
+Notes:
+There are five "zones", each with three stages and a boss battle. 
+Each zone plays the same three BGMs in order, then the same boss 
+theme.

@@ -1,0 +1,34 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Clutch Hitter
+System:              Sega Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen (Long Version)         0:25   0:19
+Title Screen (Short Version)        0:06   0:06
+Team Select                         0:25   0:17
+Play Ball!                          0:04   -
+Player Pitching                     0:38   0:38
+Player Batting                      0:26   0:26
+Chance!                             0:19   0:12
+Trouble                             0:05   0:05
+Home Run                            0:05   -
+Walk                                0:03   -
+You Won!!                           0:33   -
+You Lose                            0:41   -
+
+Notes:
+Sega's first MLBPA licensed game.

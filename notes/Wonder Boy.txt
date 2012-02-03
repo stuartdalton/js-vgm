@@ -1,0 +1,46 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Wonder Boy
+                     Super Wonder Boy (Japan)
+System:              Sega Master System
+FM:                  No
+
+Music author:        Shinichi Sakamoto
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   March 22, 1987
+
+Package created by:  Johnnyz
+Package version:     1.03
+
+Song list, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:10   -
+Main Round                          0:27   0:26
+Round Complete                      0:13   -
+Boss Round                          0:28   0:26
+Boss                                0:09   0:02
+Boss Defeated                       0:01   -
+Boss 2                              0:13   0:12
+Invincibility                       0:06   0:06
+Bonus                               0:27   0:26
+Death                               0:02   -
+Ending Jingle                       0:02   -
+Unused Stage Music                  0:29   0:29
+Unused SG1000 GameOver              0:01   -
+
+Notes:
+The Boss 2 has been modified from the original
+version. The first 12 seconds of the original
+were used and then looped. This was done
+because the original would play for an
+extremely long time before it would ever fully
+loop.
+
+Package history:
+1.03 (2009/10/21)(karagh): Unused tracks' names
+

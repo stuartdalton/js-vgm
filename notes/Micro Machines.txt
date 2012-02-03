@@ -1,0 +1,36 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Micro Machines
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Lyndon Sharp
+Publisher:           Codemasters
+Package created by:  Maxim
+Package version:     2.11
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Codemasters Sound                   0:02   -
+Title Screen                        1:53   1:53
+Select Game                         0:38   0:31
+Who Do You Want To Be?              1:40   1:40
+Race Start                          0:06   -
+Race Results                        0:06   -
+Opponent Is Out!                    0:04   -
+One Life Lost!                      0:04   -
+Game Over!                          0:09   -
+Ending                              0:38   0:26
+2-Player Race Results               0:06   -
+Tournament Champion!                0:13   -
+
+Notes:
+The race start tune is taken from a (semi-)well-known track by 70s band Deep Purple.
+The entire VGM pack was re-ripped due to new information on how the PSG works, hence version 2.00.
+Version 2.10 adds some missing tracks and modifies some titles.

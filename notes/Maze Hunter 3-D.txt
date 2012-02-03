@@ -1,0 +1,30 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Maze Hunter 3-D
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:12   -
+Metal Area                          0:57   0:57
+Rugged Area                         0:51   0:51
+Jungle Area                         0:56   0:56
+Ice Area                            0:44   0:38
+Blaze Area                          0:51   0:51
+Ending                              0:57   -
+Game Over                           0:02   -
+
+Notes:
+-

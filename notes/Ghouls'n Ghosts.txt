@@ -1,0 +1,48 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Ghouls'n Ghosts
+System:              Sega Master System
+FM module:           No
+
+Music author:        Tamayo Kawamoto
+Game developer:      Capcom
+Game publisher:      Sega
+Game release date:   1990
+
+Package created by:  Johnnyz
+Package version:     1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:11   -
+Round Start                         0:02   -
+The Execution Place                 1:30   1:17
+Pause                               0:08   0:06
+Statue of Terror                    0:18   0:13
+Round Clear                         0:03   -
+The Village of Decay                0:53   0:53
+Infernomo                           0:26   0:26
+Baron Rankle's Tower                1:13   1:13
+Mistral Winds                       0:42   0:42
+The Crystal Forest                  1:06   1:03
+Boss 4                              0:26   0:26
+Castle of Evil Demons               0:56   0:40
+Boss 5                              0:26   0:26
+Again                               0:22   -
+Ending                              3:44   -
+Death                               0:03   -
+Continue                            0:11   -
+Game Over                           0:05   -
+Lucifer's Theme (Unused)            1:01   1:01
+
+Notes:
+"Lucifer's Theme" is unused in the game, but
+it's used in Mega Drive version for the last
+boss.
+
+Package history:
+1.01 2010/07/20 karagh: +cover, ~note.
+

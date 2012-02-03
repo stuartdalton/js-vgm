@@ -1,0 +1,37 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Road Rash
+System:              Sega Master System & Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Rob Hubbard; Matt Furniss; Shaun Hollingworth
+Publisher:           US Gold
+Package created by:  Maxim
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen & Palm Desert          0:51   0:51
+Sierra Nevada                       1:30   1:30
+Pacific Coast                       1:30   1:30
+Redwood Forest                      1:28   1:28
+Grass Valley                        1:55   1:55
+Race Results                        1:04   1:04
+Bike Shop                           0:13   0:20
+Stage End                           0:08   0:03
+
+Notes:
+The Master System and Game Gear versions of the game have identical music.
+
+Both versions detect if the machine is PAL or NTSC and the music speed is
+adjusted to be the same on both.
+
+The game credits "Krisalis" software house for the music. That means the audio
+driver was written by Shaun Hollingworth and music was converted by Matt
+Furniss, from the original game music by Rob Hubbard.

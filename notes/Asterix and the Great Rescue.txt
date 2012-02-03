@@ -1,0 +1,39 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Asterix and the Great Rescue
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Nathan McCree
+Publisher:           Sega
+Package created by:  Maxim
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        2:07   2:07
+Gaul                                1:52   1:46
+Cacofonix                           0:07   0:07
+Roman Encampment                    1:55   1:20
+Roman Fort                          0:17   0:17
+The Forest                          1:38   1:38
+Log Rolling                         0:17   0:17
+Roman Galley                        2:02   2:00
+Red Beard                           0:11   0:11
+Rome                                1:57   1:53
+Amphitheatre                        0:29   0:29
+Ending                              0:58   0:58
+Paused                              1:10   0:59
+Game Over                           0:14   0:10
+
+
+Notes:
+Nathan McCree went on from this, his first game music 
+composition, to compose the music for the Tomb Raider 
+games (among others).

@@ -1,0 +1,41 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Smurfs
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Alberto Gonzalez
+Publisher:           Sega / Infogrames
+Package created by:  Johnnyz
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Intro & Game Over                   0:14   0:14
+Intro & Victory                     0:09   0:09
+Title Screen                        1:20   1:14
+Act Start                           0:02   -
+The Forest                          1:18   1:18
+Bonus Area                          0:14   0:14
+The River Smurf                     0:31   0:31
+The Bridge                          0:58   0:58
+The Swamp                           1:00   0:46
+Boss                                0:10   0:10
+Congratulations                     0:03   -
+The Sarsaparilla Fields             0:49   0:49
+The Mountain                        0:58   0:58
+The Flight on a Stork               0:43   0:37
+Inside the Volcano                  1:17   1:17
+The Sledge Race                     0:24   0:24
+Gargamel                            0:28   0:28
+Ending                              0:24   0:24
+Death                               0:02   -
+
+Notes:
+-

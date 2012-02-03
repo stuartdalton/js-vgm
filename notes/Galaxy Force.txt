@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Galaxy Force
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Katsuhiro Hayashi; Koichi Namiki; K.Tukaara
+Publisher:           Sega
+Package created by:  Grass-eatin'me
+Package version:     0.90
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Scene Select                        0:13   0:13
+Beyond the Galaxy                   2:49   2:49
+Try Z                               0:51   0:51
+Defeat                              1:19   1:19
+Take Back                           1:04   1:04
+Alone Fighter                       2:27   2:24
+Name Entry                          0:38   0:38
+
+Notes:
+PSG version. Stage Clear isn't included; 
+S.E interupted it. All titles are official.
+
+OST credits list Katsuhiro Hayashi and Koichi Namiki
+on various tracks; unlisted tracks have both names
+assigned. K.Tukaara is credited in-game and is
+presumably the arranger.

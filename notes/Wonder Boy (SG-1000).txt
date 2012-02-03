@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Wonder Boy
+System:             Sega Game 1000
+FM module:          No
+
+Music author:       unknown
+Game developer:     Escape
+Game publisher:     Sega
+Game release date:  1985
+
+Package created by: Sonic of 8!
+Package version:    2.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Main Theme                          0:14   0:14
+Boss                                0:10   0:10
+Round Complete                      0:05   0:05
+Ending                              0:10   0:10
+Death                               0:01   -
+Game Over                           0:01   -
+
+Notes:
+
+Package problems:
+missing credits; inaccurate release date
+
+Package history:
+2.01 2010/09/14 karagh: ~cover
+2.00 2010/06/22 Sonic of 8!: +jtags
+1.00 xxxx/xx/xx Sonic of 8!: First Release.

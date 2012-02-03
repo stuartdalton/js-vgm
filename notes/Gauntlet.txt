@@ -1,0 +1,36 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Gauntlet
+System:             Sega Master System
+FM module:          No
+
+Music author:       Tiertex
+Game developer:     U.S. Gold, Tengen
+Game publisher:     Sega
+Game release date:  1990
+
+Package created by: Johnnyz
+Package version:    1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:15   -
+Level Start                         0:04   -
+Hidden Room                         0:25   0:25
+Warrior                             0:01   -
+Walkyrie                            0:01   -
+Elf                                 0:01   -
+Wizard                              0:01   -
+
+Notes:
+Music by Tiertex, Sound FX by T. Porter
+
+Package problems:
+no Japanese tags; inaccurate release date
+
+Package history:
+1.01 2010/09/07 karagh: +cover
+

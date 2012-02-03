@@ -1,0 +1,42 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Ys
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Yuzo Koshiro; Mieko Ishikawa; Takahito Abe; Sound Team J.D.K; Tokuhiko Uwabo; Izuho Takeuchi; Neko
+Publisher:           Sega/Falcom
+Package created by:  fx^; Johnnyz
+Package version:     1.03
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Feena                               1:39   1:13
+Fountain of Love                    0:27   0:27
+Tears of Sylph                      0:21   0:21
+The Syonin                          0:20   0:16
+First Step Towards Wars             1:04   1:04
+Palace                              1:36   1:14
+Holders of Power                    0:26   0:19
+Palace of Destruction               1:06   0:55
+Beat of the Terror                  1:32   1:26
+Temple del Sol                      0:29   0:28
+Tower of the Shadow of Death        1:04   1:04
+Devil's Wind                        0:04   0:04
+The Last Moment of the Dark         0:56   0:56
+Final Battle                        0:13   0:13
+Rest In Peace                       0:12   0:12
+The Morning Grow                    1:53   -
+See You Again                       1:25   1:23
+Treasure Box                        0:04   -
+Game Over                           0:09   -
+Theme of Adol                       0:38   0:38
+
+Notes:
+The first version of Ys was released by Falcom, in 1987.

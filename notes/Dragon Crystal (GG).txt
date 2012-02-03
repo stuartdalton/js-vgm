@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Dragon Crystal
+     Dragon Crystal - Tsurani no Meikyu (Japan)
+System:             Sega Game Gear
+FM module:          No
+
+Music author:       E. Fugu
+Game developer:     Sega
+Game publisher:     Sega
+Game release date:  December 22nd, 1990
+
+Package created by: Maxim
+Package version:    1.02
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:14   0:10
+Levels 1 to 10                      1:01   1:01
+Levels 11 to 20                     0:58   0:58
+Levels 21 to 30                     0:58   0:58
+Ending                              0:19   0:19
+Game Over                           0:05   -
+
+Notes:
+
+Package problems:
+no Japanese tags
+
+Package history:
+1.02 2010/09/09 karagh: +cover, +date, ~titles
+

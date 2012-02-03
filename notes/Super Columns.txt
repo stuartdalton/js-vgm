@@ -1,0 +1,38 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Super Columns
+System:              Sega Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Tatsuyuki Maeda
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:24   -
+Intro                               0:23   0:23
+Enemy                               0:19   0:18
+Match 1                             0:49   0:49
+Victory                             0:03   -
+Match Won                           0:24   0:24
+Match 2                             0:50   0:50
+Match 3                             0:53   0:53
+Match 4                             0:55   0:55
+Match 5                             0:42   0:42
+Ending Credits                      1:00   1:00
+Menu                                0:08   0:08
+Clotho                              1:12   1:12
+Defeat                              0:02   -
+Game Over                           0:14   0:12
+Unused Music                        0:22   0:22
+
+Notes:
+-

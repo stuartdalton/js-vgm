@@ -1,0 +1,43 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Pengo
+System:             Sega Game Gear
+FM module:          No
+
+Music author:       Ludwig van Beethoven
+Game developer:     Sega
+Game publisher:     Sega
+Game release date:  1990/10/06
+
+Package created by: Tom
+Package version:    1.02
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Level Presentation                  0:04   -
+Level Start                         0:03   -
+In-Game Music                       0:52   0:52
+Level Complete                      0:03   -
+Ode To Joy                          0:13   -
+Death                               0:02   -
+Three Diamonds Bonus Awarded        0:02   -
+
+Notes:
+"Intermission & Ending Theme" is based on
+Ludwig van Beethoven's "Ode To Joy".
+The in-game music will speed up after a while
+like an "hurry up" feature. It will stay fast
+until you clear the level or you loose a life.
+Some tracks are not using all PSG channels:
+level presentation doesn't use channel 2, and
+the three diamond bonus doesn't use noise
+channel.
+
+Package problems:
+
+Package history:
+1.01 2010/09/08 karagh: +cover, ~tags
+1.02 2010/09/09 Maxim: retagged, renamed Ode To Joy

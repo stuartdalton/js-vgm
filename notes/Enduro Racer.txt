@@ -1,0 +1,28 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/Music               *
+***********************************************
+
+Game name:           Enduro Racer
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Hiroshi Miyauchi
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.02
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:19   0:19
+BGM 1                               0:37   0:35
+End of Race                         0:02   -
+Results                             0:07   -
+BGM 2                               0:40   0:40
+Ending                              0:51   0:51
+
+Notes:
+The two BGM tracks also contain engine sounds, which have been removed.

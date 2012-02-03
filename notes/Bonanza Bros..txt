@@ -1,0 +1,43 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Bonanza Bros.
+System:              Sega Master System
+FM module:           No
+
+Music author:        Bluetz Lee
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   1991
+
+Package created by:  CRV
+Package version:     1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Thrilling Bonanza                   0:55   -
+Title Screen 1                      0:16   -
+Title Screen 2                      0:13   -
+Skyscraper Theme                    0:16   0:15
+Bonanza Elegy2                      1:08   1:07
+Stage Clear                         0:03   -
+Bonus Start                         0:03   -
+Bonus Stage                         0:58   0:55
+Bonus Perfect                       0:02   -
+Bonus Fail                          0:02   -
+Bonanza Brother's Duty              2:09   2:09
+Bonanza Go-Go                       1:07   1:01
+Bonanza Suspense Theatre            1:29   1:17
+Bonanza Serenade                    1:04   -
+High Score                          0:12   0:12
+
+Notes:
+Some track names obtained from the tracklist
+for "Hyper Drive - G.S.M. Sega 4" by
+Pony Canyon/Scitron and Project2612 pack.
+
+Package history:
+1.01 2009/11/05 karagh: track names updated.
+

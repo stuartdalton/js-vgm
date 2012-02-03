@@ -1,0 +1,31 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Blade Eagle 3-D
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:54   0:54
+Level 1                             0:29   0:29
+Level Boss                          1:05   1:04
+Level Clear                         0:03   -
+Level 2                             0:47   0:46
+Level 3                             0:39   0:39
+Final Boss                          0:43   0:43
+Ending                              0:54   0:52
+Game Over                           0:01   -
+
+Notes:
+-

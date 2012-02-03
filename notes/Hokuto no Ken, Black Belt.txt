@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Hokuto no Ken, Black Belt
+
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Katsuhiro Hayashi
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen (Hokuto no Ken)        0:11   -
+Title Screen (Black Belt)           0:10   -
+Start                               0:03   -
+BGM (Hokuto no Ken)                 0:35   0:32
+Boss (Hokuto no Ken)                0:24   0:24
+BGM (Black Belt)                    1:07   0:58
+Boss (Black Belt)                   1:09   1:07
+Powerup                             0:16   0:16
+Clear                               0:11   -
+Ending                              0:38   -
+Miss                                0:02   -
+Game Over                           0:32   -
+
+Notes:
+-

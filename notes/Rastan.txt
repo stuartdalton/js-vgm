@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Rastan
+System:             Sega Master System
+FM module:          No
+
+Music author:       Kazuyuki Onui
+Game developer:     Taito
+Game publisher:     Taito
+Game release date:  1988
+
+Package created by: Johnnyz
+Package version:    1.02
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Story                               0:10   -
+Outside                             0:53   0:40
+Castle                              1:37   1:37
+Boss                                0:27   0:19
+Stage Complete                      0:10   -
+Ending                              1:27   -
+Death                               0:02   0:02
+
+Notes:
+
+Package problems:
+sample-accurate log; inaccurate release date
+
+Package history:
+1.02 2010/09/08 karagh: +cover
+

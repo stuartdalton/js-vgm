@@ -1,0 +1,28 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           F-16 Fighting Falcon
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega / Nexa
+Package created by:  Johnnyz
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:13   0:13
+Game Start                          0:03  -
+Game End                            0:07   -
+Unused 1                            0:03   -
+Unused 2                            0:02   -
+Unused 3 (Space Harrier Theme)      2:44   2:44
+
+Notes:
+-

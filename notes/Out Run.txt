@@ -1,0 +1,28 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Out Run
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Hiroshi Miyauchi
+Publisher:           Sega
+Package created by:  Grass-eatin'me
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Magical Sound Shower                2:47   1:06
+Passing Breeze                      4:26   0:26
+Splash Wave                         5:23   5:23
+Last Wave                           1:07   -
+
+Notes:
+PSG version. Some of these tracks had very weird,
+or actually non-existant loop-points. I timed
+all the songs as good as I could.

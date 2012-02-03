@@ -1,0 +1,26 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Missile Defense 3-D
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:56   0:56
+Launch Base                         1:01   1:01
+North Pole & Space                  0:38   0:30
+City                                1:01   1:01
+
+Notes:
+-

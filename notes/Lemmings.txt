@@ -1,0 +1,53 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Lemmings
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Matt Furniss/Various
+Publisher:           Sega
+Package created by:  Maxim
+Package version:     1.03
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:54   -
+Can-Can                             0:30   0:22
+Levels 2 & 19                       0:32   0:26
+Levels 3 & 20                       0:41   0:35
+Levels 4 & 21                       0:32   0:26
+Dance Of The Four Little Swans      0:19   0:19
+Levels 6 & 23                       0:38   0:38
+Levels 7 & 24                       0:32   0:26
+How Much Is That Doggy In The
+ Window?                            0:18   0:18
+Dance of the Reed-Flutes            0:38   0:38
+Levels 10 & 27                      0:27   0:21
+Ronda Alla Turca                    0:32   0:32
+London Bridge Is Falling Down       0:32   0:32
+Levels 13 & 30                      0:26   0:26
+Miniature Overture                  0:32   0:26
+Scotland The Brave                  0:26   0:26
+She'll Be Coming 'Round The
+ Mountain When She Comes            0:16   0:16
+Don't Dilly-Dally On The Way        0:21   0:21
+Success                             0:05   -
+Failure                             0:03   -
+Let's Go!                           0:01   -
+Oh No!                              0:01   -
+
+Notes:
+These files should probably be played at 50Hz since
+this game was only released in Europe, and for the
+GG conversion the music is slowed down.
+
+Many of the tracks are rearrangements of other tunes
+- see the individual files' GD3 tags for more
+information. If you can identify a track I haven't
+been able to, please let me know!

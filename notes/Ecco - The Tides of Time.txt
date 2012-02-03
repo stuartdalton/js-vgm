@@ -1,0 +1,29 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Ecco - The Tides of Time
+System:              Sega Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Gábor Foltán; Csaba Gigor; László Fazekas
+Publisher:           Sega
+Files created by:    PsySonic (PsySonic@planetdreamcast.com)
+Files version:       1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Main Theme                          1:10   1:10
+Vents of Medusa                     1:07   1:07
+Maze of Stone                       1:25   1:25
+Sea of Darkness                     1:08   1:08
+Vortex Future                       1:07   1:07
+Atlantis                            0:51   0:51
+
+Notes:
+Ecco the Dolphin: Caverns of Hope
+http://www.planetdreamcast.com/cavernsofhope

@@ -1,0 +1,42 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Jurassic Park
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Lotty; N.Gee
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Intro                               0:32   0:26
+Map                                 0:07   0:07
+Round Start                         0:01   -
+Car Scene                           0:29   0:26
+Pteranodon Round                    0:28   0:28
+Car Scene Clear                     0:07   -
+Triceratops Round                   0:48   0:48
+Boss                                0:13   0:13
+Round Clear                         0:12   -
+Brachiosaurus Round                 0:26   0:26
+Velociraptor Round                  0:35   0:29
+Storage                             0:47   0:47
+Final Car Scene                     0:46   0:46
+Visitor Center                      0:26   0:26
+Ending                              1:05   0:50
+Death                               0:03   -
+Continue                            0:09   -
+Bad Ending                          1:25   1:08
+Unused Music 1                      0:21   0:21
+Unused Music 2                      0:28   0:28
+
+Notes:
+The Intro music has been modified from the original version. The first 0:32 of the original were used and then looped. This was done because the original would play for an extrememly long time before it would ever fully loop.

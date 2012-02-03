@@ -1,0 +1,40 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Bubble Bobble
+                    Final Bubble Bobble (Japan)
+System:              Sega Master System
+FM module:           No
+
+Music author:        Tadashi Kimijima
+Game developer:      Taito
+Game publisher:      Sega
+Game release date:   1991
+
+Package created by:  Grass-eatin'me
+Package version:     1.01
+
+Song list, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Opening                             0:08   -
+Main Theme                          0:44   0:44
+Hurry Up!                           0:38   0:38
+Chakun Heart                        0:06   0:06
+Name Set                            0:10   0:10
+Game Over                           0:03   -
+Attack Super Drunk!                 0:13   0:13
+Mysterious Floor                    0:11   0:11
+Bad End                             0:31   -
+Happy End                           1:13   1:05
+Scal Monstra                        0:02   -
+All Stage Clear                     0:07   -
+
+Notes:
+All titles from the soundtest.
+
+Package history:
+1.01 (2009/10/26)(karagh): added cover.
+

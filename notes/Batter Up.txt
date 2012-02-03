@@ -1,0 +1,84 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/Music               *
+***********************************************
+Game name:           Batter Up
+System:              Sega Game Gear
+Music hardware:      SN76496 (Stereo)
+
+Music author:        Unknown
+Game developer:      Namco
+Game publisher:      Namco
+Game release date:   1991/4/5;
+                         1995/10/20 (Heiseiban)
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+Title Screen                        0:04   -
+Team Select                         0:27   0:22
+Play Ball                           0:09   -
+Play Ball (voice)                   0:01   -
+Main Theme                          0:28   0:25
+Chance Theme                        0:09   0:09
+Change                              0:03   -
+Game Set                            0:05   -
+Sports News                         0:26   0:26
+Sound Test 03                       0:14   0:14
+Sound Test 05                       0:17   0:17
+Sound Test 10                       0:07   0:07
+
+Notes:
+Is a "color-ed" port of the first Famista game
+on Game Boy (known in US as Extra Bases!).
+
+I was found on the start of ROM, the followed
+copyright: 1986 1991 NAMCO LTD. ALL RIGHTS 
+RESERVED (C)1991 TAKASHI FUKAWA. This guy is
+the composer or the creator of game?
+
+The Heiseiban Edition of Gear Stadium is just a
+updated version with the original Nippon
+Professional Baseball teams (plus with Namco
+Stars and a custom team that includes some
+american characters), instead of clones
+but nothing special. Gear Stadium Heiseiban is
+the last Namco game on Game Gear.
+
+I can tell the musics that play on other games:
+
+Title Screen: Famista '89 (FC) - Famista 2 (GB);
+Team Select: Family Stadium '88 (FC) - Famista 4
+(GB, Namco Collection Vol. 2)
+Play Ball: Family Stadium (FC) - Famista 4
+Play Ball (voice): World Stadium (AC)
+Main Theme: Famista '89 - Famista 4
+Chance Theme: Famista '89 - Famista 4
+Change: Family Stadium - Famista 4
+Game Set: Family Stadium - Famista 4
+Sports News: Unknown, sorry...
+Sound Test 3 & 5: Again, unknown...
+Sound Test 10: Family Stadim '88, Edit Mode.
+
+Famista 4 is identically to Famista 3 (GB), only
+NPB teams rosters was updated (I think), and
+runs with some colors in Super Game Boy mode.
+
+I was found a strange thing with my hacking
+methods (why?): I was found the people in stadium
+displaying some V's (something in kanji in Gear 
+Stadium) and plays the Track 12. I think that is
+ending scene (but is very kinda crappy and 
+understandable...). And in the Omake Screenshot
+(the one with girl cheerleader tired) plays the 
+Track 10. Both screens you cannot do anything
+(only Reset).
+
+Read the topic in SMS Power about the VGM Pack to
+see one screenshot.
+
+Package history:
+1.00 18/7/2011 Sonic of 8!: Initial release.

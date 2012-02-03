@@ -1,0 +1,32 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Aztec Adventure
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Maxim
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:14   -
+Rainbow Screen                      0:09   -
+Forest                              0:34   0:34
+Underground Waterway                0:26   0:26
+Desert                              0:26   0:26
+Marshes                             0:27   0:27
+Ruins                               0:45   0:45
+Phantoms' Shadows                   1:17   0:58
+Ending                              0:38   0:38
+Game Over                           0:03
+
+Notes:
+-

@@ -1,0 +1,28 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Zillion II - The Tri Formation
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown; Yoshiaki Kiuchi; Shingo Kobayashi; Jun Irie
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:12   -
+Pure Stone                          0:41   0:40
+Inside Base                         0:53   0:42
+Boss                                0:40   0:40
+Push!                               0:42   0:33
+
+Notes:
+Pure Stone and Push! in their original versions
+are performed by Risa Yuuki.

@@ -1,0 +1,45 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Wonderboy In Monster World
+System:              Sega Master System
+FM module:           No
+
+Music author:        Shinichi Sakamoto
+Game developer:      Westone
+Game publisher:      Sega
+Game release date:   1993
+
+Package created by:  Furanku
+Package version:     1.05
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:11   0:11
+Home Stage                          0:58   0:44
+Beach Stage                         1:11   1:04
+Alsedo the Fairy Village            0:46   0:46
+Castle in Cave Stage                0:32   0:26
+Passageway in tree Stage            0:31   0:31
+Begoni the Dragon Village           0:14   0:14
+Jungle Stage                        0:17   0:08
+Aztec Village                       0:32   0:26
+Desert Stage                        1:04   1:04
+Desert after Egypt Stage            1:01   0:58
+Snow Fields and Under Sea stages    0:53   0:53
+Inside Pyramid Stage                1:20   1:12
+Boss Stage                          0:27   0:26
+Ending                              2:03   -
+Game Over                           0:03   -
+The Last Dungeon Remix (unused)     0:13   2:40 
+
+Notes:
+
+Package problems:
+no Japanese tags; inaccurate release date
+
+Package history:
+1.05 2010/08/16 karagh: +cover
+

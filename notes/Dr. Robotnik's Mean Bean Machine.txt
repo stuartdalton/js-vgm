@@ -1,0 +1,36 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:     Dr. Robotnik's Mean Bean Machine
+System:              Sega Master System
+FM module:           No
+
+Music author:        Nagao N.Gee; Hiki; Lotty
+                     David Javelosa
+Game developer:      Compile
+Game publisher:      Sega
+Game release date:   1993
+
+Package created by:  Johnnyz
+Package version:     1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Intro                               0:19   0:19
+Title Screen                        0:32   0:25
+Menu                                1:02   1:02
+Scenario                            0:32   0:32
+Exercise                            0:27   0:27
+Robotnik                            0:32   0:32
+Ending                              1:42   1:42
+Lesson                              0:14   0:14
+Puzzle                              0:55   0:55
+Game Over                           0:06   0:06
+
+Notes:
+
+Package history:
+1.01 2009/11/19 karagh: added cover
+

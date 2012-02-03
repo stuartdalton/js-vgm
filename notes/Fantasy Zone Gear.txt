@@ -1,0 +1,38 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Fantasy Zone Gear
+System:              Sega Game Gear
+Music hardware:      SN76496
+
+Music author:        Yoko Wada, Hiroshi Kawaguchi
+Game developer:      Sanritsu/SIMS
+Game publisher:      Sanritsu/SIMS
+Game release date:   1991/07/19
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+Opening                             0:42   0:28
+Wood Stage                          0:47   0:43
+Shop                                0:45   0:45
+Boss                                0:28   0:28
+Round Clear                         0:03   -
+Fire Stage                          0:40   0:32
+Ice Stage                           0:34   0:30
+Water Stage                         0:58   0:43
+Cloud Stage                         0:34   0:30
+Desert Stage                        0:35   0:32
+Last Boss                           0:28   0:25
+Ending                              1:19   0:44
+Game Over                           0:07   -
+
+Notes:
+-
+
+Package history:
+1.00 25/7/2011 Sonic of 8!: Initial release.

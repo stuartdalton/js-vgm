@@ -1,0 +1,28 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Sukeban Deka II - Shoujo Tekkamen Densetsu
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Johnnyz
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:53   0:51
+Menu                                0:26   0:26
+Battlin Days                        0:34   0:34
+In Search of Freedom                0:59   0:53
+The Will to Love                    0:32   0:30
+Game Over                           0:03   -
+
+Notes:
+-

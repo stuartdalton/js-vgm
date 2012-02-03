@@ -1,0 +1,26 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Ghost House
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  DukeNukem; Johnnyz
+Package version:     1.10
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:13   -
+House                               0:51   0:38
+Fighting Vampires                   0:03   0:03
+Game Over                           0:03   -
+
+Notes:
+-

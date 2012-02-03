@@ -1,0 +1,33 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Sonic Drift
+System:              Sega Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Kaoto
+Publisher:           Sega
+Package created by:  Classic Game Guy
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:07   -
+Options Screen                      0:17   0:13
+Course Select                       0:38   0:26
+Driver Select                       0:26   0:26
+Green Hill                          0:32   0:26
+Marble                              0:16   0:16
+Spring Yard                         0:32   0:26
+Labyrinth                           0:30   0:26
+Star Light                          0:26   0:26
+Scrap Brain                         0:32   0:32
+Race Result                         0:03   -
+Invincibility                       0:06   0:06
+GP Cleared                          0:10   0:10
+Credits                             0:19   0:19

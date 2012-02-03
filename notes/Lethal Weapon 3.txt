@@ -1,0 +1,53 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/Music               *
+***********************************************
+
+Game name:           Lethal Weapon 3
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Jeroen Tel
+Publisher:           n/a
+Package created by:  Maxim
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title                               1:24   1:09
+Game Map                            0:03   -
+Level Start                         0:41   0:41
+Level 1                             0:46   0:46
+Pause Mode                          2:49   2:49
+Level Complete                      1:17   1:17
+Level 2                             1:09   1:09
+Game Complete                       0:06   -
+Continue Screen                     0:38   0:38
+Game Over                           0:46   0:46
+
+Notes:
+This game was never released and possibly never developed at all. Jeroen Tel
+was contracted to produce the music for it and this dump was produced from his
+music engine alone. Nothing else is known about the game.
+
+Tracks are in a guessed game order based on the track titles.
+
+Track titles are guessed from the music engine's sequence names. Here are the
+originals for comparison:
+
+TITLE
+GAMEMAP
+LEVELSTRT
+LEVEL1
+PAUSEMODE
+LEVELCMP
+LEVEL2
+GAMECOMP
+CONTSCRN
+GAMEOVER
+
+History:
+1.00 Initial release

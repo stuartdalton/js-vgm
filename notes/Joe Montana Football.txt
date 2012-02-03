@@ -1,0 +1,27 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Joe Montana Football
+System:              Sega Master System / Game Gear
+Music hardware:      SN76489
+
+Music author:        Unknown
+Game developer:      BlueSky
+Game publisher:      Sega
+Game release date:   1990 (SMS); 1992/05/22 (GG)
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+Title Screen                        0:25   -
+Unknown                             0:16   -
+
+Notes:
+The game also contains the "Clotho" msuic from Columns, but it is never used.
+
+Package history:
+1.00 29/8/2011 Sonic of 8!: Initial release.

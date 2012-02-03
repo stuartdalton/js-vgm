@@ -1,0 +1,57 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Streets of Rage II
+System:              Sega Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Yuzo Koshiro; Motohiro Kawashima
+Publisher:           Sega
+Files created by:    Grass-eatin'me; Maxim
+Files version:       1.10
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+The Streets of Rage Super Mix       1:07   1:07
+Player Select                       0:10   0:09
+Go Straight                         0:19   0:19
+In the Bar                          0:34   0:34
+Never Return Alive                  1:04   1:04
+Round Clear                         0:05   -
+Dreamer                             0:51   0:51
+Under Logic                         0:38   0:38
+Spin on the Bridge                  0:32   0:32
+Too Deep                            0:26   0:26
+Slow Moon                           0:51   0:51
+The Super Three                     0:26   0:26
+Expander                            0:51   0:51
+Max Man                             0:32   0:32
+Revenge of Mr. X                    0:45   0:38
+Good End                            0:58   0:58
+Game Over                           0:04   -
+
+Notes:
+The following tracks are based on music from the original Streets of
+Rage game:
+- The Super Three
+- Player Select
+- Round Clear
+- Game Over
+
+All titles taken from the Original Soundtracks.
+
+The music engine was written by Mikito Ichikawa, music composition was
+by Yuzo Koshiro and Motohiro Kawashima.
+
+The music is the same for both the Master System and Game Gear versions;
+this pack was logged from the Game Gear version.
+
+v1.10: 7 tracks re-ripped by Maxim, two were previously half-length and
+the rest were slightly mistimed.
+
+v1.02: tag corrections

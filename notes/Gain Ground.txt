@@ -1,0 +1,39 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:          Gain Ground
+System:             Sega Master System
+FM module:          No
+
+Music author:       Tarnya
+Game developer:     Sega
+Game publisher:     Sega
+Game release date:  1990
+
+Package created by: Johnnyz
+Package version:    1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:13   -
+The Primitive Age                   2:45   2:45
+The Middle Ages                     2:18   1:42
+The Modern Age                      1:18   1:18
+The Near Future                     1:53   1:36
+Gain Ground, The Final Era          0:56   0:42
+Boss                                1:28   1:21
+Gates Of Time                       1:26   -
+Best Scores                         0:03   -
+Game Over                           0:10   -
+
+Notes:
+
+Package problems:
+inaccurate release date; no Japanese tags;
+sample-accurate log
+
+Package history:
+1.01 2010/09/06 karagh: +cover
+

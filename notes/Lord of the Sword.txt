@@ -1,0 +1,32 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Lord of the Sword
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Files created by:    Johnnyz
+Files version:       1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title screen                        0:13   -
+Intro                               0:26   0:26
+Village                             0:26   0:26
+Story                               0:38   0:38
+Battling                            0:53   0:53
+Boss Fight                          0:21   0:21
+Final Dungeon                       0:45   0:38
+Ending                              1:02   -
+Death                               0:10   -
+Unused Music                        0:08   -
+
+Notes:
+-

@@ -1,0 +1,27 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Championship Lode Runner
+System:              Sega Game 1000
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title                               0:11   -
+Main Theme                          0:19   0:19
+Next Round                          0:02   -
+Death                               0:01   -
+Game Over                           0:01   -
+
+Notes:
+Five Songs?

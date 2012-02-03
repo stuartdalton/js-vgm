@@ -1,0 +1,56 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Sonic The Hedgehog
+System:              Sega Master System /
+                      Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Author:              Masato Nakamura, Yuzo Koshiro
+Publisher:           Sega
+Files created by:    Valley Bell
+Files version:       2.00
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+01 Title Screen                     0:08   -
+02 Act Start                        0:02   -
+03 Green Hill Zone                  0:53   0:38
+04 Invincible                       0:10   0:10
+05 Bridge Zone                      0:26   0:26
+06 Chaos Emerald                    0:04   -
+07 Jungle Zone                      0:29   0:29
+08 Bonus Zone                       1:00   1:00
+09 Labyrinth Zone                   0:29   0:29
+10 Act Complete                     0:05   -
+11 Scrap Brain Zone                 0:52   0:51
+12 Sky Base Zone                    0:16   0:16
+13 Boss Theme                       0:12   0:12
+14 Death                            0:04   -
+15 Ending                           1:33   -
+
+Notes:
+Master System version logged, but both versions
+have identical music.
+All files were logged with Kega Fusion 3.63 and
+with the use of Maxim's Start-Button-Hack.
+
+Masato Nakamura made the music for the Mega
+Drive version; Yuzo Koshiro ported some of it
+and composed the rest.
+
+
+Package history:
+1.01 2001/10/26 fx^, Maxim, and Agustín: The
+oldest version I (Valley Bell) could find.
+1.10 2005/01/23 Grass-eatin'me: Songs relogged?
+1.11 2005/07/12 Grass-eatin'me: Composer Masato
+Nakamura added.
+2.00 2010/10/20 Valley Bell: All tracks
+relogged, too many had looping/trimming errors.
+Song order changed.

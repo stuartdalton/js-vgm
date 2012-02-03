@@ -1,0 +1,33 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Alex Kidd: The Lost Stars
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Hiroshi Miyauchi
+Publisher:           Sega
+Package created by:  Maxim
+Package version:     1.03
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:06   -
+I'm the Miracle Ball                0:03   -
+Toy World & Monster World           0:51   0:51
+Machine World & Giant's Body        0:46   0:46
+World of Make Believe
+ & The Shrine of Jiggarat           0:51   0:51
+Water World                         1:17   1:17
+Enter the Shrine of Jiggarat        0:03   -
+Ending                              0:25   -
+Time Up & The End                   0:03   -
+Aaargh!                             0:01   -
+
+Notes:
+Hiroshi Miyauchi composed the arcade version's music.

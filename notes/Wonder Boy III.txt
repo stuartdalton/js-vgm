@@ -1,0 +1,45 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:    Wonder Boy III: the Dragon's Trap
+System:            Sega Master System/Game Gear
+FM module:           No
+
+Music author:        Shinichi Sakamoto
+Game developer:      Sega / Westone
+Game publisher:      Sega
+Game release date:   1989
+
+Package created by:  Maxim/Furanku
+Package version:     1.22
+
+Song list, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:10   -
+The Last Dungeon                    0:51   0:45
+Vs. Dragon                          0:22   0:21
+And Now...                          0:21   -
+Monster-Town                        0:35   0:34
+Shop (The Dragon's Trap)            0:06   0:06
+Continue                            0:08   -
+Mind of Hero                        0:51   0:51
+Side-Crawler's Dance                1:08   1:08
+The Danger Zone                     1:17   1:04
+Mouse-Man Falling                   0:16   -
+It's a Treasure Box                 0:34   0:34
+The Monster's Lair                  0:58   0:51
+Endless War                         1:22   -
+The Dragon's Trap                   2:23   -
+
+Notes:
+The track titles are from the credits; they may
+be currently assigned to the wrong tracks.
+The Game Gear version has an additional title
+screen track not found in the Master System
+version.
+
+Package history:
+1.22 (2009/10/26)(karagh): minor tag correct.

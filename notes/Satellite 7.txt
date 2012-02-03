@@ -1,0 +1,31 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Satellite 7
+System:              Sega Master System
+FM module:           No
+
+Music author:        unknown
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   December 20th, 1985
+
+Package created by:  CRV
+Package version:     1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:09   -
+In-Game Music                       0:21   0:17
+Game Over                           0:04   -
+
+Notes:
+
+Package problems:
+missing credits; no Japanese tags
+
+Package history:
+1.01 2010/08/16 karagh: +cover
+

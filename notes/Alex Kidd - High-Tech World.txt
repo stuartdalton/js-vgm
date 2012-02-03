@@ -1,0 +1,36 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Alex Kidd in High Tech World
+System:              Sega Master System
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Unknown
+Publisher:           Sega
+Package created by:  fx^
+Package version:     1.02
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:14   -
+Intro                               0:13   0:13
+Castle                              0:32   0:26
+Castle Room                         0:29   0:29
+Fantasy Zone Record                 0:08   -
+Hang Glider                         0:05   -
+Ninja Forest                        0:13   0:13
+Town                                0:26   0:26
+Shop                                0:19   0:19
+Game Over                           0:02   -
+Ending                              0:37   -
+
+Notes:
+"Alex Kidd in High Tech World" (1989) was a modified
+version of the 1987 Japanese game "Anmitsu Hime"
+("Princess Anmitsu") with the main character changed
+to Alex Kidd. The music is identical in both.

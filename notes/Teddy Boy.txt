@@ -1,0 +1,41 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Teddy Boy
+                     Teddy Boy Blues (Japan)
+                     Geraldinho (Brazil)
+System:              Sega Master System
+FM module:           No
+
+Music author:        unknown
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   October 20, 1985
+
+Package created by:  Johnnyz
+Package version:     1.01
+
+Song list, in approximate game order:
+Name                                Length:
+                                    Total  Loop
+Title Screen                        0:08   -
+Round                               0:51   0:51
+Round Complete                      0:01   -
+Bonus Game                          0:13   0:13
+Bonus End                           0:03   -
+Game Over                           0:04   -
+Teddy Boy Blues Title Screen        0:11   -
+Teddy Boy Blues Theme               1:43   1:43
+
+Notes:
+
+Package problems:
+sample-accurate log, except for "Teddy Boy
+Blues" songs; missing credits; no Japanese
+tags
+
+
+Package history:
+1.01 2010/08/15 karagh: +cover, +date
+

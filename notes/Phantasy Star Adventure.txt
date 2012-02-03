@@ -1,0 +1,34 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Phantasy Star Adventure
+System:              Game Gear
+Complete music dump: Yes
+FM:                  No
+
+Original author:     Kenji Yamazaki
+Publisher:           Sega
+Package created by:  Grant Laughlin
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title                               0:39   0:39
+Name Entry                          0:39   0:39
+Exploring                           0:46   0:46
+Battle                              0:45   0:45
+Despair                             2:15   -
+Climax                              0:26   0:06
+
+Notes:
+The drums on "Despair" are slightly out of sync with the rest of the music. I
+chose not to loop it, as it would create a slight hiccup.
+
+Credits were unavailable at the time. If you have any information regarding the
+composer of this music, please contribute it to the forum at smspower.org.
+
+Track names are merely descriptive.

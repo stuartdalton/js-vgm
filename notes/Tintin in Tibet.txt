@@ -1,0 +1,43 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Tintin in Tibet
+System:              Sega Game Gear
+FM module:           No
+
+Music author:        Alberto José González
+Game developer:      Bit Managers
+Game publisher:      Infogrames
+Game release date:   1996
+
+Package created by:  bucky
+Package version:     1.01
+
+Song list, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Screen                        1:09   1:09
+Train                               1:17   1:17
+Swimming                            0:34   0:34
+Hotel des Sommets                   1:17   1:17
+Katmandu                            1:10   1:10
+Running                             0:43   0:43
+Mountain Base                       0:45   0:45
+Upper Mountain                      1:07   1:07
+Mountain Top                        1:10   1:10
+Cave                                1:46   1:46
+Monastery                           1:47   1:36
+Yeti's Cave                         0:53   0:48
+Game Over                           0:15   -
+
+Notes:
+Track names corroborated with Alberto José González.
+Various tracks were originally composed by Frederic 
+Mentzen for the SNES game, check individual track 
+notes for more specific information.
+
+Package history:
+1.00 (2009/08/01)(bucky): Initial release.
+1.01 (2009/10/01)(karagh): Cover corrected.
