@@ -42,7 +42,7 @@
 
 	function loadPlaylist(name) {
 		// Display the screenshot
-		document.getElementById('gameScreenshot').src = "screenshots/" + name + ".png";
+		// document.getElementById('gameScreenshot').src = "screenshots/" + name + ".png";
 
 		// Load the playlist
 		var playlistFile = "playlists/" + name + ".m3u";

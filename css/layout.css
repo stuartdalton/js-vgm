@@ -1,0 +1,29 @@
+
+#gamelistContainer, #playlistContainer {
+	position: absolute;
+	top: 100px;
+	bottom: 0px;
+	overflow-y: scroll;
+}
+
+#gamelistContainer {
+	left: 0px;
+	width: 30%;
+}
+
+#playlistContainer {
+	left: 30%;
+	right: 0px;
+}
+
+#gamelistContainer > table, #playlistContainer > table {
+	width: 100%;
+}
+
+#gameList tr:nth-child(odd) {
+	background: #dfd;
+}
+
+#playList tr:nth-child(odd) {
+	background: #ddf;
+}
