@@ -11,7 +11,6 @@
 		UtilFunctions.requestBinaryFile(filePath, function(data) {
 			vgm = new VgmFile();
 			vgm.outputSampleRate = sink.sampleRate;
-			console.log(data);
 			vgm.load(data);
 		}, function() {
 			alert("Can't load VGM file - " + filePath);

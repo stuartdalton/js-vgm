@@ -255,7 +255,7 @@
 			// Check the magic number
 			var magic = header.readString(4);
 			if(magic != "Vgm ") {
-				console.log("Not a VGM file");
+				alert("Not a VGM file");
 				return;
 			}
 
@@ -263,7 +263,7 @@
 			header.skipLong();
 			var version = header.readLong();
 			if(version > 0x0150) {
-				console.log("Unknown VGM file version");
+				alert("Unknown VGM file version");
 				return;
 			}
 
@@ -285,7 +285,7 @@
 			header.skipLong();
 			var tag_offset = header.readLong();
 			settings.sample_count = header.readLong();
-			settings.loop_offset = header.readLong();
+			settings.loop_offset = header.readLong() + 0x1c;
 			settings.loop_samples = header.readLong();
 
 			// Read the extra header fields for version 1.01
@@ -335,7 +335,7 @@
 			isPlaying = true;
 			
 			} catch(e) {
-				console.log(e);
+				alert(e);
 			}
 		}
 
@@ -376,8 +376,11 @@
 				case 0x63:	// Wait one frame (PAL - 1/50th of a second)
 					return 882;
 				case 0x66:	// END
-					console.log("STOPPED");
-					isPlaying = false;
+					if(settings.loop_samples > 0) {
+						header.seek(settings.loop_offset);
+					} else {
+						isPlaying = false;
+					}
 					return 0;
 				case 0xe0: // Seek
 					header.skipLong();
